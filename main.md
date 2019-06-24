@@ -1,4 +1,4 @@
-# Interesting (Long and/or Short) Reads
+## Interesting (Long and/or Short) Reads
 
 1. [Comparison of long-read sequencing technologies in the hybrid assembly of complex bacterial genomes](https://www.biorxiv.org/content/10.1101/530824v2)(2019)
 2. [Next-Generation Sequencing Technologies and their Application to the Study and Control of Bacterial Infection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5857210/)(2018)
