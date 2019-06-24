@@ -11,9 +11,9 @@
 ### 2016-2018
 
 1. [Single molecule real-time (SMRT) sequencing comes of age: applications and utilities for medical diagnostics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5861413/)(2018)
-2. [Next-Generation Sequencing Technologies and their Application to the Study and Control of Bacterial Infection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5857210/) (2018)
+2. [NGS Technologies and their Application to the Study and Control of Bacterial Infection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5857210/) (2018)
 3. [Targeted Long-Read Sequencing of a Locus Under Long-Term Balancing Selection in *Capsella*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5873921/) (2018)
 1. [Hybrid sequencing and map finding (HySeMaFi): optional strategies for extensively deciphering gene splicing and expression in organisms without reference genome](https://www.nature.com/articles/srep43793) (2017)
 4. [DNA Sequencing Technologies: 2006-2016](https://www.nature.com/articles/nprot.2016.182) (2017)
-1. [Comparison of next generation sequencing technologies for the comprehensive assessment of full-length hepatitis C viral genomes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5035407/) (2016)
+1. [Comparison of NGS technologies for the comprehensive assessment of full-length hepatitis C viral genomes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5035407/) (2016)
 5. [The sequence of sequencers: The history of sequencing DNA](https://www.sciencedirect.com/science/article/pii/S0888754315300410) (2016)
