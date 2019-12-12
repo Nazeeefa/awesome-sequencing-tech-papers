@@ -1,3 +1,5 @@
+Feel free to contribute by forking and submitting pull requests, or posting suggestions as issues.
+
 ## Long and/or Short Reads: 
 
 #### 2019-Present
