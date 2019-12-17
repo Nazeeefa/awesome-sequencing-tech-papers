@@ -12,7 +12,7 @@ Feel free to contribute by forking and submitting pull requests, or posting sugg
 
 #### 2016-2018
 
-1. [Single molecule real-time (SMRT) sequencing comes of age: applications and utilities for medical diagnostics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5861413/)(2018)
+1. [Single molecule real-time (SMRT) sequencing comes of age: applications and utilities for medical diagnostics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5861413/) (2018)
 1. [Single-Molecule Sequencing: Towards Clinical Applications](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30204-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS016777991830204X%3Fshowall%3Dtrue) (2018)
 2. [NGS Technologies and their Application to the Study and Control of Bacterial Infection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5857210/) (2018)
 3. [Targeted Long-Read Sequencing of a Locus Under Long-Term Balancing Selection in *Capsella*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5873921/) (2018)
