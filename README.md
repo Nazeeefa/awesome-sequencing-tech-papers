@@ -13,7 +13,7 @@ Feel free to contribute by forking and submitting pull requests, or posting sugg
 #### 2018
 
 1. [Single molecule real-time (SMRT) sequencing comes of age: applications and utilities for medical diagnostics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5861413/)
-1. [Single-Molecule Sequencing: Towards Clinical Applications](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30204-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS016777991830204X%3Fshowall%3Dtrue) (2018)
+1. [Single-Molecule Sequencing: Towards Clinical Applications](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30204-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS016777991830204X%3Fshowall%3Dtrue)
 2. [NGS Technologies and their Application to the Study and Control of Bacterial Infection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5857210/)
 3. [Targeted Long-Read Sequencing of a Locus Under Long-Term Balancing Selection in *Capsella*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5873921/)
 
@@ -23,7 +23,7 @@ Feel free to contribute by forking and submitting pull requests, or posting sugg
 1. [DNA Sequencing Technologies: 2006-2016](https://www.nature.com/articles/nprot.2016.182)
 
 #### 2016
-1. [Comparison of NGS technologies for the comprehensive assessment of full-length hepatitis C viral genomes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5035407/) (2016)
+1. [Comparison of NGS technologies for the comprehensive assessment of full-length hepatitis C viral genomes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5035407/)
 1. [The sequence of sequencers: The history of sequencing DNA](https://www.sciencedirect.com/science/article/pii/S0888754315300410)
 
 ### Single-Cell
