@@ -25,3 +25,5 @@ Feel free to contribute by forking and submitting pull requests, or posting sugg
 
 1. [Comparative analysis of sequencing technologies for single-cell transcriptomics](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1676-5) (2019)
 1. [High-throughput targeted long-read single cell sequencing reveals the clonal and transcriptional landscape of lymphocytes](https://www.biorxiv.org/content/10.1101/424945v1.full) (2018)
+
+Feel free to contribute by forking and submitting pull requests, or posting suggestions as issues.
