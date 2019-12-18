@@ -1,7 +1,5 @@
 Feel free to contribute by forking and submitting pull requests, or posting suggestions as issues.
 
-## Covering Both Long and/or Short Reads: 
-
 #### 2019-Present
 
 1. [Chromosome-scale assembly comparison of the Korean Reference Genome KOREF from PromethION and PacBio with Hi-C mapping information](http://dx.doi.org/10.1093/gigascience/giz125)
