@@ -2,6 +2,9 @@ Feel free to contribute by forking and submitting pull requests, or posting sugg
 
 ### Long and/or Short Read Sequencing Technologies
 
+#### 2020
+1. 
+
 #### 2019
 
 1. [Chromosome-scale assembly comparison of the Korean Reference Genome KOREF from PromethION and PacBio with Hi-C mapping information](http://dx.doi.org/10.1093/gigascience/giz125)
