@@ -2,10 +2,6 @@ Feel free to contribute by forking and submitting pull requests, or posting sugg
 
 ### Long and/or Short Read Sequencing Technologies
 
-#### 2020
-1. [Comprehensive analysis of structural variants in breast cancer genomes using
-single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
-
 #### 2019
 
 1. [Comprehensive analysis of structural variants in breast cancer genomes using
