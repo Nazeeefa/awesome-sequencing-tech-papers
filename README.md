@@ -3,10 +3,13 @@ Feel free to contribute by forking and submitting pull requests, or posting sugg
 ### Long and/or Short Read Sequencing Technologies
 
 #### 2020
-1. 
+1. [Comprehensive analysis of structural variants in breast cancer genomes using
+single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
 
 #### 2019
 
+1. [Comprehensive analysis of structural variants in breast cancer genomes using
+single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
 1. [Chromosome-scale assembly comparison of the Korean Reference Genome KOREF from PromethION and PacBio with Hi-C mapping information](http://dx.doi.org/10.1093/gigascience/giz125)
 1. [Long-Read Sequencing Emerging in Medical Genetics](https://www.frontiersin.org/articles/10.3389/fgene.2019.00426/full)
 1. [Comparison of long-read sequencing technologies in the hybrid assembly of complex bacterial genomes](https://www.biorxiv.org/content/10.1101/530824v2)
