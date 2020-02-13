@@ -1,4 +1,4 @@
-Feel free to contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/pulls), or posting suggestions as (https://github.com/Nazeeefa/awesome-sequencing-tech-papers/issues).
+Feel free to contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/issues).
 
 ### Long and/or Short Read Sequencing Technologies
 
