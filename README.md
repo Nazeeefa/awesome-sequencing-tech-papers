@@ -2,6 +2,10 @@ Feel free to contribute by submitting [pull requests](https://github.com/Nazeeef
 
 ### Long and/or Short Read Sequencing Technologies
 
+#### 2020
+
+1. [A preliminary study on the potential of Nanopore MinION and Illumina MiSeq 16S rRNA gene sequencing to characterize building-dust microbiomes](https://www.nature.com/articles/s41598-020-59771-0)
+
 #### 2019
 
 1. [Comprehensive analysis of structural variants in breast cancer genomes using
