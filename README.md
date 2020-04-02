@@ -15,9 +15,8 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 #### 2020
 
 1. [A technology-agnostic long-read analysis pipeline for transcriptome discovery and quantification](https://www.biorxiv.org/content/10.1101/672931v2)
-2. [Profiling of Human Gut Virome with Oxford Nanopore Technology](https://www.biorxiv.org/content/10.1101/2020.02.03.933077v1)
-3. [Comparative analysis of seven short-reads sequencing platforms using the Korean Reference Genome: MGI and Illumina sequencing benchmark for whole-genome sequencing](https://www.biorxiv.org/content/10.1101/2020.03.22.002840v1)
-4. [A preliminary study on the potential of Nanopore MinION and Illumina MiSeq 16S rRNA gene sequencing to characterize building-dust microbiomes](https://www.nature.com/articles/s41598-020-59771-0)
+2. [Comparative analysis of seven short-reads sequencing platforms using the Korean Reference Genome: MGI and Illumina sequencing benchmark for whole-genome sequencing](https://www.biorxiv.org/content/10.1101/2020.03.22.002840v1)
+3. [A preliminary study on the potential of Nanopore MinION and Illumina MiSeq 16S rRNA gene sequencing to characterize building-dust microbiomes](https://www.nature.com/articles/s41598-020-59771-0)
 
 #### 2019
 
