@@ -1,4 +1,14 @@
-Feel free to contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/issues).
+# awesome-sequencing-tech-papers
+
+- **Long and/or Short Read Sequencing Technologies**
+  - [2020](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2020)
+  - [2019](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2019)
+  - [2018](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2018)
+  - [2017](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2017)
+  - [2016](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2016)
+- **[Single-Cell](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#single-cell)**
+  
+Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/issues).
 
 ### Long and/or Short Read Sequencing Technologies
 
