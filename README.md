@@ -20,13 +20,14 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 #### 2019
 
-1. [Comprehensive analysis of structural variants in breast cancer genomes using
+1. [Comparative analysis of sequencing technologies for single-cell transcriptomics](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1676-5) 
+2. [Comprehensive analysis of structural variants in breast cancer genomes using
 single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
-1. [Chromosome-scale assembly comparison of the Korean Reference Genome KOREF from PromethION and PacBio with Hi-C mapping information](http://dx.doi.org/10.1093/gigascience/giz125)
-1. [Long-Read Sequencing Emerging in Medical Genetics](https://www.frontiersin.org/articles/10.3389/fgene.2019.00426/full)
-1. [Comparison of long-read sequencing technologies in the hybrid assembly of complex bacterial genomes](https://www.biorxiv.org/content/10.1101/530824v2)
-1. [A critical comparison of technologies for a plant genome sequencing project](https://academic.oup.com/gigascience/article/8/3/giy163/5281243)
-1. [Illumina and Nanopore methods for whole genome sequencing of hepatitis B virus (HBV)](https://www.nature.com/articles/s41598-019-43524-9)
+3. [Chromosome-scale assembly comparison of the Korean Reference Genome KOREF from PromethION and PacBio with Hi-C mapping information](http://dx.doi.org/10.1093/gigascience/giz125)
+4. [Long-Read Sequencing Emerging in Medical Genetics](https://www.frontiersin.org/articles/10.3389/fgene.2019.00426/full)
+5. [Comparison of long-read sequencing technologies in the hybrid assembly of complex bacterial genomes](https://www.biorxiv.org/content/10.1101/530824v2)
+6. [A critical comparison of technologies for a plant genome sequencing project](https://academic.oup.com/gigascience/article/8/3/giy163/5281243)
+7. [Illumina and Nanopore methods for whole genome sequencing of hepatitis B virus (HBV)](https://www.nature.com/articles/s41598-019-43524-9)
 
 #### 2018
 
@@ -35,6 +36,7 @@ single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
 2. [NGS Technologies and their Application to the Study and Control of Bacterial Infection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5857210/)
 3. [Targeted Long-Read Sequencing of a Locus Under Long-Term Balancing Selection in *Capsella*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5873921/)
 4. [Real-time analysis of nanopore-based metagenomic sequencing from infected orthopaedic devices](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5094-y) (Comparison between Illumina MiSeq and MinION)
+5. [High-throughput targeted long-read single cell sequencing reveals the clonal and transcriptional landscape of lymphocytes](https://www.biorxiv.org/content/10.1101/424945v1.full) (2018)
 
 #### 2017
 1. [A Review on the Applications of Next Generation Sequencing Technologies as Applied to Food-Related Microbiome Studies](https://www.frontiersin.org/articles/10.3389/fmicb.2017.01829/full)
@@ -44,10 +46,5 @@ single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
 #### 2016
 1. [Comparison of NGS technologies for the comprehensive assessment of full-length hepatitis C viral genomes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5035407/)
 1. [The sequence of sequencers: The history of sequencing DNA](https://www.sciencedirect.com/science/article/pii/S0888754315300410)
-
-### Single-Cell
-
-1. [Comparative analysis of sequencing technologies for single-cell transcriptomics](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1676-5) (2019)
-1. [High-throughput targeted long-read single cell sequencing reveals the clonal and transcriptional landscape of lymphocytes](https://www.biorxiv.org/content/10.1101/424945v1.full) (2018)
 
 Feel free to contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/issues).
