@@ -19,6 +19,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 3. [A preliminary study on the potential of Nanopore MinION and Illumina MiSeq 16S rRNA gene sequencing to characterize building-dust microbiomes](https://www.nature.com/articles/s41598-020-59771-0)
 4. [Long-read error correction: a survey and qualitative comparison](https://www.biorxiv.org/content/10.1101/2020.03.06.977975v2) - A comprehensive analysis of 29 tools using PacBio and nanopore data.
 5. [Overcoming uncollapsed haplotypes in long-read assemblies of non-model organisms](https://www.biorxiv.org/content/10.1101/2020.03.16.993428v1) - Assessment of long-read assemblers on PacBio and nanopore reads from the non-model non-vertebrate organism Adineta *vaga*
+6. [Long-read human genome sequencing and its applications](https://www.nature.com/articles/s41576-020-0236-x) - A review article that focuses on PacBio (SMRT) sequencing and Oxford Nanopore Technologies, and compare those two major long-read technologies with short-read sequencing platforms in terms of read accuracy, throughput, and cost.
 
 #### 2019
 
