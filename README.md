@@ -6,7 +6,6 @@
   - [2018](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2018)
   - [2017](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2017)
   - [2016](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2016)
-- **[Single-Cell](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#single-cell)**
   
 Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/issues).
 
