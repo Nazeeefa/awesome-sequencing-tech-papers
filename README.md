@@ -7,6 +7,10 @@
   - [2017](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2017)
   - [2016](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2016)
   
+- **Key:**
+  - PacBio, Pacific Biosciences
+  - ONT, Oxford Nanopore Technology
+  
 Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/issues).
 
 #### 2020
