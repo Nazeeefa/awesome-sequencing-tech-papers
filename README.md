@@ -36,8 +36,8 @@ single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
 
 #### 2018
 
-1. [Single molecule real-time (SMRT) sequencing comes of age: applications and utilities for medical diagnostics](https://academic.oup.com/nar/article/46/5/2159/4833218) - A summary of how SMRT sequencing technology has evolved into PacBio's RS II and Sequel systems and its use for various types of genetics studies .
-1. [Single-Molecule Sequencing: Towards Clinical Applications](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30204-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS016777991830204X%3Fshowall%3Dtrue)
+1. [Single molecule real-time (SMRT) sequencing comes of age: applications and utilities for medical diagnostics](https://academic.oup.com/nar/article/46/5/2159/4833218) - A summary of how SMRT sequencing technology has evolved into PacBio's RS II and Sequel systems and its use for various types of genetics studies.
+1. [Single-Molecule Sequencing: Towards Clinical Applications](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30204-X) - A nice review on how PacBio and ONTs are being used for microbiology, pharmacogenomics, cancer studies, and so on.
 2. [NGS Technologies and their Application to the Study and Control of Bacterial Infection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5857210/)
 1. [Targeted Long-Read Sequencing of a Locus Under Long-Term Balancing Selection in *Capsella*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5873921/)
 1. [Real-time analysis of nanopore-based metagenomic sequencing from infected orthopaedic devices](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5094-y) (Comparison between Illumina MiSeq and MinION)
