@@ -36,7 +36,7 @@ single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
 
 #### 2018
 
-1. [Single molecule real-time (SMRT) sequencing comes of age: applications and utilities for medical diagnostics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5861413/)
+1. [Single molecule real-time (SMRT) sequencing comes of age: applications and utilities for medical diagnostics](https://academic.oup.com/nar/article/46/5/2159/4833218) - A summary of how SMRT sequencing technology has evolved RS II and Sequel systems.
 1. [Single-Molecule Sequencing: Towards Clinical Applications](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30204-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS016777991830204X%3Fshowall%3Dtrue)
 2. [NGS Technologies and their Application to the Study and Control of Bacterial Infection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5857210/)
 1. [Targeted Long-Read Sequencing of a Locus Under Long-Term Balancing Selection in *Capsella*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5873921/)
