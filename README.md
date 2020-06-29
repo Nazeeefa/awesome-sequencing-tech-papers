@@ -31,7 +31,7 @@ single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
 3. [Chromosome-scale assembly comparison of the Korean Reference Genome KOREF from PromethION and PacBio with Hi-C mapping information](http://dx.doi.org/10.1093/gigascience/giz125)
 4. [Long-Read Sequencing Emerging in Medical Genetics](https://www.frontiersin.org/articles/10.3389/fgene.2019.00426/full) - A review article that discusses potential of long-read sequencing technologies in a context of advancements in medical genetics.
 5. [Comparison of long-read sequencing technologies in the hybrid assembly of complex bacterial genomes](https://www.biorxiv.org/content/10.1101/530824v2)
-6. [A critical comparison of technologies for a plant genome sequencing project](https://academic.oup.com/gigascience/article/8/3/giy163/5281243)
+6. [A critical comparison of technologies for a plant genome sequencing project](https://academic.oup.com/gigascience/article/8/3/giy163/5281243) - Comparison between Illumina short read, PacBio, 10x Genomics linked reads, Dovetail Hi-C, and BioNano optical maps for assembling high-quality potato species *Solanum verrucosum*. The comparison involves assessment of completeness, accuracy, requirements, and sequencing costs.
 7. [Illumina and Nanopore methods for whole genome sequencing of hepatitis B virus (HBV)](https://www.nature.com/articles/s41598-019-43524-9)
 
 #### 2018
