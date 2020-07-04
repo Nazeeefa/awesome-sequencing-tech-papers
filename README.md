@@ -1,6 +1,6 @@
 # awesome-sequencing-tech-papers
 
-**A collection of papers and preprints on comparison of long and/or short read sequencing technologies**
+**A collection of papers and preprints on comparison of long and/or short read sequencing technologies. The list also includes studies that involved use of multiple platforms.**
 |Sequencing|Technologies|For|The | Win|
 |:--:|:--:|:--:|:--:|:--:|
 |[2020](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2020)| [2019](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2019)| [2018](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2018)|[2017](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2017)|[2016](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2016)|
@@ -34,6 +34,7 @@ single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
 5. 🦠 [Comparison of long-read sequencing technologies in the hybrid assembly of complex bacterial genomes](https://www.biorxiv.org/content/10.1101/530824v2)
 6. 🌱 [A critical comparison of technologies for a plant genome sequencing project](https://academic.oup.com/gigascience/article/8/3/giy163/5281243) - Comparison between Illumina short read, PacBio, 10x Genomics linked reads, Dovetail Hi-C, and BioNano optical maps for assembling high-quality potato species *Solanum verrucosum*. The comparison involves assessment of completeness, accuracy, requirements, and sequencing costs.
 7. [Illumina and Nanopore methods for whole genome sequencing of hepatitis B virus (HBV)](https://www.nature.com/articles/s41598-019-43524-9)
+8. [Multi-platform discovery of haplotype-resolved structural variation in human genomes](https://www.nature.com/articles/s41467-018-08148-z)
 
 #### 2018
 
@@ -50,7 +51,7 @@ single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
 1. [DNA Sequencing Technologies: 2006-2016](https://www.nature.com/articles/nprot.2016.182)
 
 #### 2016
-1. [Comparison of NGS technologies for the comprehensive assessment of full-length hepatitis C viral genomes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5035407/)
+1. 🦠 [Comparison of NGS technologies for the comprehensive assessment of full-length hepatitis C viral genomes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5035407/)
 1. [The sequence of sequencers: The history of sequencing DNA](https://www.sciencedirect.com/science/article/pii/S0888754315300410)
 
 Feel free to contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/issues).
