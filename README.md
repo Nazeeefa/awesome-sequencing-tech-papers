@@ -1,6 +1,6 @@
 # awesome-sequencing-tech-papers
 
-**A collection of papers and preprints on comparison of long and/or short read sequencing technologies. The list also includes studies that involved use of multiple platforms.**
+**A collection of papers and preprints on comparison of long and/or short read sequencing technologies.**
 |Sequencing|Technologies|For|The | Win|
 |:--:|:--:|:--:|:--:|:--:|
 |[2020](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2020)| [2019](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2019)| [2018](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2018)|[2017](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2017)|[2016](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2016)|
@@ -35,6 +35,7 @@ single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
 6. 🌱 [A critical comparison of technologies for a plant genome sequencing project](https://academic.oup.com/gigascience/article/8/3/giy163/5281243) - Comparison between Illumina short read, PacBio, 10x Genomics linked reads, Dovetail Hi-C, and BioNano optical maps for assembling high-quality potato species *Solanum verrucosum*. The comparison involves assessment of completeness, accuracy, requirements, and sequencing costs.
 7. [Illumina and Nanopore methods for whole genome sequencing of hepatitis B virus (HBV)](https://www.nature.com/articles/s41598-019-43524-9)
 8. [Multi-platform discovery of haplotype-resolved structural variation in human genomes](https://www.nature.com/articles/s41467-018-08148-z)
+9. [Sequencing of human genomes with nanopore technology](https://www.nature.com/articles/s41467-019-09637-5) - The main focus of this study is the use of nanopore technology (MinION) for clinical use. In addition to evaluating performance of basecallers for SNV calls, the study also looked at comparison of large variants (>100bp) from read data generated ONT, PacBio, and Illumina (section 3.2, supplementary).
 
 #### 2018
 
