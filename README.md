@@ -45,7 +45,7 @@ single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
 2. 🦠 [NGS Technologies and their Application to the Study and Control of Bacterial Infection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5857210/)
 1. 🦠 [Targeted Long-Read Sequencing of a Locus Under Long-Term Balancing Selection in *Capsella*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5873921/)
 1. 🦠 [Real-time analysis of nanopore-based metagenomic sequencing from infected orthopaedic devices](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5094-y) (Comparison between Illumina MiSeq and MinION)
-1. [High-throughput targeted long-read single cell sequencing reveals the clonal and transcriptional landscape of lymphocytes](https://www.biorxiv.org/content/10.1101/424945v1.full) (2018)
+1. [High-throughput targeted long-read single cell sequencing reveals the clonal and transcriptional landscape of lymphocytes](https://www.biorxiv.org/content/10.1101/424945v1.full)
 
 #### 2017
 1. [A Review on the Applications of Next Generation Sequencing Technologies as Applied to Food-Related Microbiome Studies](https://www.frontiersin.org/articles/10.3389/fmicb.2017.01829/full)
