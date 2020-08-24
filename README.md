@@ -14,7 +14,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 #### 2020
 
-1. **Title:** [Benchmarking challenging small variants with linked and long reads](https://www.biorxiv.org/content/10.1101/2020.07.24.212712v1)
+**Title:** [Benchmarking challenging small variants with linked and long reads](https://www.biorxiv.org/content/10.1101/2020.07.24.212712v1)
 
 **Description:**
 
@@ -22,7 +22,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ---
 
-2. **Title:** 🐟 [Draft genome assemblies using sequencing reads from Oxford Nanopore Technology and Illumina platforms for four species of North American killifish from the *Fundulus genus*](http://dx.doi.org/10.1093/gigascience/giaa067)
+**Title:** 🐟 [Draft genome assemblies using sequencing reads from Oxford Nanopore Technology and Illumina platforms for four species of North American killifish from the *Fundulus genus*](http://dx.doi.org/10.1093/gigascience/giaa067)
 
 **Description:** A study on a collection of whole genome data of killifish species obtained from ONT PromethION and Illumina platforms (HiSeq 4000 and NovaSeq)
 
@@ -30,7 +30,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ---
 
-3. **Title:** [A technology-agnostic long-read analysis pipeline for transcriptome discovery and quantification](https://www.biorxiv.org/content/10.1101/672931v2) 
+**Title:** [A technology-agnostic long-read analysis pipeline for transcriptome discovery and quantification](https://www.biorxiv.org/content/10.1101/672931v2) 
 
 **Description:** Comparison of MinION and PacBio Sequel II for full-transcript discovery and quantification in GM12878 cell line. PacBio platform captured more as compared to direct-RNA performed by MinION, however PacBio data is prone to antisense transcript artifacts. PacBio Sequel II data was also compared with Illumina RNA-Seq data for expression levels.
 
