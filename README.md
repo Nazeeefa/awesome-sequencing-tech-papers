@@ -14,16 +14,37 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 #### 2020
 
-1. [Benchmarking challenging small variants with linked and long reads](https://www.biorxiv.org/content/10.1101/2020.07.24.212712v1)
-2. 🐟 [Draft genome assemblies using sequencing reads from Oxford Nanopore Technology and Illumina platforms for four species of North American killifish from the *Fundulus genus*](http://dx.doi.org/10.1093/gigascience/giaa067) - A study on a collection of whole genome data of killifish species obtained from ONT PromethION and Illumina platforms (HiSeq 4000 and NovaSeq).
-2. [A technology-agnostic long-read analysis pipeline for transcriptome discovery and quantification](https://www.biorxiv.org/content/10.1101/672931v2) - Comparison of MinION and PacBio Sequel II for full-transcript discovery and quantification in GM12878 cell line. PacBio platform captured more as compared to direct-RNA performed by MinION, however PacBio data is prone to antisense transcript artifacts. PacBio Sequel II data was also compared with Illumina RNA-Seq data for expression levels.
-2. [Long-read human genome sequencing and its applications](https://www.nature.com/articles/s41576-020-0236-x) - A review article that focuses on SMRT sequencing and ONT, and compare those two major long-read technologies with short-read sequencing platforms in terms of read accuracy, throughput, and cost.
-2. [Opportunities and challenges in long-read sequencing data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1935-5)
-2. [A preliminary study on the potential of Nanopore MinION and Illumina MiSeq 16S rRNA gene sequencing to characterize building-dust microbiomes](https://www.nature.com/articles/s41598-020-59771-0)
-2. 🦁 [Long live the king: chromosome-level assembly of the lion (Panthera leo) using linked-read, Hi-C, and long-read data](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-019-0734-5) - The study showed that data from 10x Genomics and Dovetai Hi-C were sufficient for chromosome genome assembly. For sequence fill-in (closing gaps between contigs with ambiguous sequence), nanopore data (MinION) was used. Besides quality of assembly and phylogenetic relationships of species taxa, the study reports how reference genome bias influences heterozygosity estimates across species.
-2. [Long-read error correction: a survey and qualitative comparison](https://www.biorxiv.org/content/10.1101/2020.03.06.977975v2) - A comprehensive analysis of 29 tools using PacBio and nanopore data.
-2. [Overcoming uncollapsed haplotypes in long-read assemblies of non-model organisms](https://www.biorxiv.org/content/10.1101/2020.03.16.993428v1) - Assessment of long-read assemblers on PacBio and nanopore reads from the non-model non-vertebrate organism *Adineta vaga*
-2. 🇰🇷 [Comparative analysis of seven short-reads sequencing platforms using the Korean Reference Genome: MGI and Illumina sequencing benchmark for whole-genome sequencing](https://www.biorxiv.org/content/10.1101/2020.03.22.002840v1)
+1. **Title:** [Benchmarking challenging small variants with linked and long reads](https://www.biorxiv.org/content/10.1101/2020.07.24.212712v1)
+
+**Description:**
+
+**Platforms:** 10x Genomics, Complete Genomics, PacBio CCS Sequel II, ONT.
+
+---
+
+2. **Title:** 🐟 [Draft genome assemblies using sequencing reads from Oxford Nanopore Technology and Illumina platforms for four species of North American killifish from the *Fundulus genus*](http://dx.doi.org/10.1093/gigascience/giaa067)
+
+**Description:** A study on a collection of whole genome data of killifish species obtained from ONT PromethION and Illumina platforms (HiSeq 4000 and NovaSeq)
+
+**Platforms:** ONT PromethION, and Illumina platforms (HiSeq 4000 and NovaSeq)
+
+---
+
+3. **Title:** [A technology-agnostic long-read analysis pipeline for transcriptome discovery and quantification](https://www.biorxiv.org/content/10.1101/672931v2) 
+
+**Description:** Comparison of MinION and PacBio Sequel II for full-transcript discovery and quantification in GM12878 cell line. PacBio platform captured more as compared to direct-RNA performed by MinION, however PacBio data is prone to antisense transcript artifacts. PacBio Sequel II data was also compared with Illumina RNA-Seq data for expression levels.
+
+**Platforms:**
+
+---
+
+4. [Long-read human genome sequencing and its applications](https://www.nature.com/articles/s41576-020-0236-x) - A review article that focuses on SMRT sequencing and ONT, and compare those two major long-read technologies with short-read sequencing platforms in terms of read accuracy, throughput, and cost.
+5. [Opportunities and challenges in long-read sequencing data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1935-5)
+6. [A preliminary study on the potential of Nanopore MinION and Illumina MiSeq 16S rRNA gene sequencing to characterize building-dust microbiomes](https://www.nature.com/articles/s41598-020-59771-0)
+7. 🦁 [Long live the king: chromosome-level assembly of the lion (Panthera leo) using linked-read, Hi-C, and long-read data](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-019-0734-5) - The study showed that data from 10x Genomics and Dovetai Hi-C were sufficient for chromosome genome assembly. For sequence fill-in (closing gaps between contigs with ambiguous sequence), nanopore data (MinION) was used. Besides quality of assembly and phylogenetic relationships of species taxa, the study reports how reference genome bias influences heterozygosity estimates across species.
+8. [Long-read error correction: a survey and qualitative comparison](https://www.biorxiv.org/content/10.1101/2020.03.06.977975v2) - A comprehensive analysis of 29 tools using PacBio and nanopore data.
+9. [Overcoming uncollapsed haplotypes in long-read assemblies of non-model organisms](https://www.biorxiv.org/content/10.1101/2020.03.16.993428v1) - Assessment of long-read assemblers on PacBio and nanopore reads from the non-model non-vertebrate organism *Adineta vaga*
+10. 🇰🇷 [Comparative analysis of seven short-reads sequencing platforms using the Korean Reference Genome: MGI and Illumina sequencing benchmark for whole-genome sequencing](https://www.biorxiv.org/content/10.1101/2020.03.22.002840v1)
 
 #### 2019
 
