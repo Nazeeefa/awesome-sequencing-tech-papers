@@ -81,7 +81,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 **Title:** [Comparative analysis of sequencing technologies for single-cell transcriptomics](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1676-5) 
 
 ---
-**Title:* [Comprehensive analysis of structural variants in breast cancer genomes using
+**Title:** [Comprehensive analysis of structural variants in breast cancer genomes using
 single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
 
 ---
@@ -121,17 +121,42 @@ single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
 
 ## 2018
 
-1. 💉🧬 [Single molecule real-time (SMRT) sequencing comes of age: applications and utilities for medical diagnostics](https://academic.oup.com/nar/article/46/5/2159/4833218) - A summary of how SMRT sequencing technology has evolved into PacBio's RS II and Sequel systems and its use for various types of genetics studies.
-1. 💉🧬 [Single-Molecule Sequencing: Towards Clinical Applications](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30204-X) - A nice review on how PacBio and ONTs are being used for microbiology, pharmacogenomics, cancer studies, and so on.
-2. 🦠 [NGS Technologies and their Application to the Study and Control of Bacterial Infection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5857210/)
-1. 🦠 [Targeted Long-Read Sequencing of a Locus Under Long-Term Balancing Selection in *Capsella*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5873921/)
-1. 🦠 [Real-time analysis of nanopore-based metagenomic sequencing from infected orthopaedic devices](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5094-y) (Comparison between Illumina MiSeq and MinION)
-1. [High-throughput targeted long-read single cell sequencing reveals the clonal and transcriptional landscape of lymphocytes](https://www.biorxiv.org/content/10.1101/424945v1.full)
+**Title:** 💉🧬 [Single molecule real-time (SMRT) sequencing comes of age: applications and utilities for medical diagnostics](https://academic.oup.com/nar/article/46/5/2159/4833218)
+
+**Description:** A summary of how SMRT sequencing technology has evolved into PacBio's RS II and Sequel systems and its use for various types of genetics studies.
+
+---
+
+**Title:** 💉🧬 [Single-Molecule Sequencing: Towards Clinical Applications](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30204-X)
+
+**Description:** A nice review on how PacBio and ONTs are being used for microbiology, pharmacogenomics, cancer studies, and so on.
+
+---
+
+**Title:** 🦠 [NGS Technologies and their Application to the Study and Control of Bacterial Infection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5857210/)
+
+----
+
+**Title:** 🦠 [Targeted Long-Read Sequencing of a Locus Under Long-Term Balancing Selection in *Capsella*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5873921/)
+
+---
+**Title:** 🦠 [Real-time analysis of nanopore-based metagenomic sequencing from infected orthopaedic devices](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5094-y)
+
+**Platforms:** Illumina MiSeq and ONT's MinION
+
+---
+
+**Title:** [High-throughput targeted long-read single cell sequencing reveals the clonal and transcriptional landscape of lymphocytes](https://www.biorxiv.org/content/10.1101/424945v1.full)
+
+---
 
 ## 2017
-1. [A Review on the Applications of Next Generation Sequencing Technologies as Applied to Food-Related Microbiome Studies](https://www.frontiersin.org/articles/10.3389/fmicb.2017.01829/full)
-1. [Hybrid sequencing and map finding (HySeMaFi): optional strategies for extensively deciphering gene splicing and expression in organisms without reference genome](https://www.nature.com/articles/srep43793)
-1. [DNA Sequencing Technologies: 2006-2016](https://www.nature.com/articles/nprot.2016.182)
+
+**Title:** [A Review on the Applications of Next Generation Sequencing Technologies as Applied to Food-Related Microbiome Studies](https://www.frontiersin.org/articles/10.3389/fmicb.2017.01829/full)
+
+**Title:** [Hybrid sequencing and map finding (HySeMaFi): optional strategies for extensively deciphering gene splicing and expression in organisms without reference genome](https://www.nature.com/articles/srep43793)
+
+**Title:** [DNA Sequencing Technologies: 2006-2016](https://www.nature.com/articles/nprot.2016.182)
 
 ## 2016
 
