@@ -26,7 +26,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Description:** A study on a collection of whole genome data of killifish species obtained from ONT PromethION and Illumina platforms (HiSeq 4000 and NovaSeq)
 
-**Platforms:** ONT PromethION, and Illumina platforms (HiSeq 4000 and NovaSeq)
+**Platforms:** ONT's PromethION, and Illumina platforms (HiSeq 4000 and NovaSeq)
 
 ---
 
