@@ -12,6 +12,8 @@
   
 Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/issues).
 
+---
+
 ## 2020
 
 **Title:** [Benchmarking challenging small variants with linked and long reads](https://www.biorxiv.org/content/10.1101/2020.07.24.212712v1)
@@ -169,5 +171,7 @@ single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
 ---
 
 **Title:** [The sequence of sequencers: The history of sequencing DNA](https://www.sciencedirect.com/science/article/pii/S0888754315300410)
+
+---
 
 Feel free to contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/issues).
