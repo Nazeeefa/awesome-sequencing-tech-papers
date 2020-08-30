@@ -95,6 +95,8 @@ single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
 
 **Description:** The study concludes that "the pore-based PromethION approach provides a good quality chromosome-scale human genome assembly at a low cost and is much more cost-effective than PacBio."
 
+**Platforms:** ONT PromethION R9.4.1, PacBio Sequel, Illumina HiSeq 2000, and Arima-HiC kit (A160105 v01, San Diego, CA, USA)
+
 ---
 
 **Title:** 💉🧬 [Long-Read Sequencing Emerging in Medical Genetics](https://www.frontiersin.org/articles/10.3389/fgene.2019.00426/full)
