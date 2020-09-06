@@ -48,6 +48,8 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Title:** [Opportunities and challenges in long-read sequencing data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1935-5)
 
+**Description:** An overview of the bioinformatics pipelines for nanopore and PacBio sequencing, with a focus on downstream analyses such as error correction, structural variant calling, and detection of base modifications.
+
 ---
 
 **Title:** [A preliminary study on the potential of Nanopore MinION and Illumina MiSeq 16S rRNA gene sequencing to characterize building-dust microbiomes](https://www.nature.com/articles/s41598-020-59771-0)
