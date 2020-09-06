@@ -5,7 +5,7 @@
 |:--:|:--:|:--:|:--:|:--:|
 |[2020](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2020)| [2019](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2019)| [2018](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2018)|[2017](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2017)|[2016](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2016)|
   
-- **Key:**
+**Key:**
   - PacBio, Pacific Biosciences
   - ONT, Oxford Nanopore Technology / ONTs, Oxford Nanopore Technologies
   - SMRT, Single-Molecule Real-Time (adapted by PacBio)
@@ -18,7 +18,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Title:** [Benchmarking challenging small variants with linked and long reads](https://www.biorxiv.org/content/10.1101/2020.07.24.212712v1)
 
-**Description:**
+**Description:** Use of long and linked reads to expand Genome In A Bottle's benchmark in order to indentify difficult regions such as segmental duplications.
 
 **Platforms:** 10x Genomics, Complete Genomics, PacBio CCS Sequel II, ONT.
 
