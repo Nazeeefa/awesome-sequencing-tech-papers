@@ -9,12 +9,21 @@
   - PacBio, Pacific Biosciences
   - ONT, Oxford Nanopore Technology / ONTs, Oxford Nanopore Technologies
   - SMRT, Single-Molecule Real-Time (adapted by PacBio)
+  - Hi-C, chromosome conformation capture 
   
 Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/issues).
 
 ---
 
 ## 2020
+
+**Title:** ↔🧬 [Telomere-to-telomere assembly of a complete human X chromosome](https://www.nature.com/articles/s41586-020-2547-7)
+
+**Description:** The study presents first ever gapless telomere-to-telomere assembly of human X chromosome, enabled by ultra-long reads.
+
+**Platforms:** Illumina linked reads, 10X Genomics, PacBio (Continuous Long Reads and HiFi Reads), ONT, Hi-C
+
+---
 
 **Title:** [Benchmarking challenging small variants with linked and long reads](https://www.biorxiv.org/content/10.1101/2020.07.24.212712v1)
 
