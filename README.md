@@ -103,7 +103,7 @@ single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
 
 ---
 
-**Title:** [Construction and Integration of Three De Novo Japanese Human Genome Assemblies toward a Population-Specific Reference](https://www.biorxiv.org/content/10.1101/861658v1)
+**Title:** 🇯🇵 [Construction and Integration of Three *De Novo* Japanese Human Genome Assemblies toward a Population-Specific Reference](https://www.biorxiv.org/content/10.1101/861658v1)
 
 **Description:** "*De novo* assembly of the genomes from three Japanese male individuals using >100× PacBio long reads.."
 
