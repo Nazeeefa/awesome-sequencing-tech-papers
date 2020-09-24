@@ -102,6 +102,14 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
 
 ---
+
+**Title:** [Construction and Integration of Three De Novo Japanese Human Genome Assemblies toward a Population-Specific Reference](https://www.biorxiv.org/content/10.1101/861658v1)
+
+**Description:** "*De novo* assembly of the genomes from three Japanese male individuals using >100× PacBio long reads.."
+
+**Platforms:** PacBio
+
+---
 **Title:** 🇰🇷 [Chromosome-scale assembly comparison of the Korean Reference Genome KOREF from PromethION and PacBio with Hi-C mapping information](http://dx.doi.org/10.1093/gigascience/giz125)
 
 **Description:** The study concludes that "the pore-based PromethION approach provides a good quality chromosome-scale human genome assembly at a low cost and is much more cost-effective than PacBio."
