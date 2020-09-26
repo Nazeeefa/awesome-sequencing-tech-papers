@@ -105,9 +105,9 @@ single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
 
 **Title:** 🇯🇵 [Construction and Integration of Three *De Novo* Japanese Human Genome Assemblies toward a Population-Specific Reference](https://www.biorxiv.org/content/10.1101/861658v1)
 
-**Description:** Construction of a reference genome using hybrid scaffolding approach by integrating *de novo* assemblies of three Japanese male individuals
+**Description:** Construction of a reference genome using hybrid scaffolding approach by integrating *de novo* assemblies of three Japanese male individuals. BionanoSolve  software (v3.2) was used for hybrid scaffolding.
 
-**Platforms:** PacBio RSII (using P6-C4 chemistry), and Irys/Saphyr system (BioNano Genomics) for optical mapping
+**Platforms:** PacBio RSII (using P6-C4 chemistry),  Illumina HiSeq 2500 system (with a TruSeq Rapid PE Cluster kit and Rapid SBS kit), and Irys/Saphyr system (BioNano Genomics) for optical mapping.
 
 ---
 **Title:** 🇰🇷 [Chromosome-scale assembly comparison of the Korean Reference Genome KOREF from PromethION and PacBio with Hi-C mapping information](http://dx.doi.org/10.1093/gigascience/giz125)
