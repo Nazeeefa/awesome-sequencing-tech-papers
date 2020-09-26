@@ -105,16 +105,16 @@ single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
 
 **Title:** 🇯🇵 [Construction and Integration of Three *De Novo* Japanese Human Genome Assemblies toward a Population-Specific Reference](https://www.biorxiv.org/content/10.1101/861658v1)
 
-**Description:** "*De novo* assembly of the genomes from three Japanese male individuals using >100× PacBio long reads.."
+**Description:** Construction of a reference genome using hybrid scaffolding approach by integrating *de novo* assemblies of three Japanese male individuals
 
-**Platforms:** PacBio
+**Platforms:** PacBio RSII (using P6-C4 chemistry), and Irys/Saphyr system (BioNano Genomics) for optical mapping
 
 ---
 **Title:** 🇰🇷 [Chromosome-scale assembly comparison of the Korean Reference Genome KOREF from PromethION and PacBio with Hi-C mapping information](http://dx.doi.org/10.1093/gigascience/giz125)
 
 **Description:** The study concludes that "the pore-based PromethION approach provides a good quality chromosome-scale human genome assembly at a low cost and is much more cost-effective than PacBio."
 
-**Platforms:** ONT PromethION R9.4.1, PacBio Sequel, Illumina HiSeq 2000, and Arima-HiC kit (A160105 v01, San Diego, CA, USA)
+**Platforms:** ONT PromethION R9.4.1, PacBio Sequel, Illumina HiSeq 2000, and Arima-HiC kit (A160105 v01)
 
 ---
 
