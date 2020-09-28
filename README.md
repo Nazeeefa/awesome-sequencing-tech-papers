@@ -97,9 +97,10 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 **Title:** [Comprehensive analysis of structural variants in breast cancer genomes using
 single molecule sequencing](https://genome.cshlp.org/content/30/9/1258)
 
-**Description:**
+**Description:** Analysis of the SKBR3 breast cancer cell line and patient-derived organoids representing tumor and matching normal cells from two breast cancer
+patients.
 
-**Platforms:**
+**Platforms:** ONT's MinION (R9.1 flow cell) , PacBio Sequel (SMRTbell template prep kit 1.0), Illumina (TruSeq RNA Library prep kit), and 10x Genomics
 
 ---
 
