@@ -7,7 +7,7 @@
   
 **Key:**
   - PacBio, Pacific Biosciences
-  - ONT, Oxford Nanopore Technology / ONTs, Oxford Nanopore Technologies
+  - ONT, Oxford Nanopore Technology
   - SMRT, Single-Molecule Real-Time (adapted by PacBio)
   - Hi-C, chromosome conformation capture 
   
