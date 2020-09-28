@@ -93,13 +93,19 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Platforms:** BGISEQ-500, MGISEQ-T7, HiSeq2000, HiSeq2500, HiSeq4000, HiSeqX10, and NovaSeq6000
 
+---
+**Title:** [Comprehensive analysis of structural variants in breast cancer genomes using
+single molecule sequencing](https://genome.cshlp.org/content/30/9/1258)
+
+**Description:**
+
+**Platforms:**
+
+---
+
 ## 2019
 
 **Title:** [Comparative analysis of sequencing technologies for single-cell transcriptomics](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1676-5) 
-
----
-**Title:** [Comprehensive analysis of structural variants in breast cancer genomes using
-single molecule sequencing](https://www.biorxiv.org/content/10.1101/847855v1)
 
 ---
 
