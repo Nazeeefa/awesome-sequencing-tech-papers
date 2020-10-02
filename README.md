@@ -6,10 +6,14 @@
 |[2020](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2020)| [2019](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2019)| [2018](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2018)|[2017](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2017)|[2016](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2016)|
   
 **Key:**
-  - PacBio, Pacific Biosciences
+  - Hi-C, chromosome conformation capture
   - ONT, Oxford Nanopore Technology
-  - SMRT, Single-Molecule Real-Time (adapted by PacBio)
-  - Hi-C, chromosome conformation capture 
+  - PacBio, Pacific Biosciences
+    - SMRT, Single-Molecule Real-Time (adapted by PacBio)
+    - CCS, Circular Consensus Sequencing
+    - Hi-Fi, High-Fidelity
+    - CLR, Continuous Long Read
+  
   
 Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/issues).
 
@@ -29,13 +33,13 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Description:** Use of long and linked reads to expand Genome In A Bottle's benchmark in order to indentify difficult regions such as segmental duplications.
 
-**Platforms:** 10x Genomics, Complete Genomics, PacBio CCS Sequel II, ONT.
+**Platforms:** 10x Genomics, Complete Genomics, PacBio Sequel II, ONT.
 
 ---
 
 **Title:** 🐟 [Draft genome assemblies using sequencing reads from Oxford Nanopore Technology and Illumina platforms for four species of North American killifish from the *Fundulus genus*](http://dx.doi.org/10.1093/gigascience/giaa067)
 
-**Description:** A study on a collection of whole genome data of killifish species obtained from ONT PromethION and Illumina platforms (HiSeq 4000 and NovaSeq)
+**Description:** A study on a collection of whole genome data of killifish species obtained from ONT and Illumina platforms
 
 **Platforms:** ONT's PromethION, and Illumina platforms (HiSeq 4000 and NovaSeq)
 
