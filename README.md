@@ -37,11 +37,19 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ---
 
+**Title:** 🌲🍂 [Siberian larch (*Larix sibirica Ledeb.*) mitochondrial genome assembled using both short and long nucleotide sequence reads is currently the largest known mitogenome](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07061-4)
+
+**Description:** Assessment of mitochondrial reads (using sequencing, assembly, and annotation) to study Siberian larch.
+
+**Platforms:** Illumina HiSeq 2000 and ONT MinION.
+
+---
+
 **Title:** 🐟 [Draft genome assemblies using sequencing reads from Oxford Nanopore Technology and Illumina platforms for four species of North American killifish from the *Fundulus genus*](http://dx.doi.org/10.1093/gigascience/giaa067)
 
 **Description:** A study on a collection of whole genome data of killifish species obtained from ONT and Illumina platforms
 
-**Platforms:** ONT's PromethION, and Illumina platforms (HiSeq 4000 and NovaSeq)
+**Platforms:** ONT PromethION, and Illumina platforms (HiSeq 4000 and NovaSeq)
 
 ---
 
@@ -49,7 +57,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Description:** Comparison of MinION and PacBio Sequel II for full-transcript discovery and quantification in GM12878 cell line. PacBio platform captured more as compared to direct-RNA performed by MinION, however PacBio data is prone to antisense transcript artifacts. PacBio Sequel II data was also compared with Illumina RNA-Seq data for expression levels.
 
-**Platforms:** ONT's MinION and PacBio Sequel II
+**Platforms:** ONT MinION and PacBio Sequel II
 
 ---
 
@@ -69,7 +77,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Description:**
 
-**Platforms:** ONT's MinION and Illumina MiSeq
+**Platforms:** ONT MinION and Illumina MiSeq
 
 ---
 
@@ -104,7 +112,7 @@ single molecule sequencing](https://genome.cshlp.org/content/30/9/1258)
 **Description:** Analysis of the SKBR3 breast cancer cell line and patient-derived organoids representing tumor and matching normal cells from two breast cancer
 patients.
 
-**Platforms:** ONT's MinION (R9.1 flow cell) , PacBio Sequel (SMRTbell template prep kit 1.0), Illumina (TruSeq RNA Library prep kit), and 10x Genomics
+**Platforms:** ONT MinION (R9.1 flow cell) , PacBio Sequel (SMRTbell template prep kit 1.0), Illumina (TruSeq RNA Library prep kit), and 10x Genomics
 
 ---
 
@@ -180,7 +188,7 @@ patients.
 ---
 **Title:** 🦠 [Real-time analysis of nanopore-based metagenomic sequencing from infected orthopaedic devices](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5094-y)
 
-**Platforms:** Illumina MiSeq and ONT's MinION
+**Platforms:** Illumina MiSeq and ONT MinION
 
 ---
 
