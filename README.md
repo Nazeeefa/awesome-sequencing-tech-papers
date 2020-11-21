@@ -1,9 +1,9 @@
 # awesome-sequencing-tech-papers
 
 **A collection of papers and preprints on comparison of long and/or short read sequencing technologies.**
-|Sequencing|Technologies|For|The | Win|
-|:--:|:--:|:--:|:--:|:--:|
-|[2020](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2020)| [2019](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2019)| [2018](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2018)|[2017](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2017)|[2016](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2016)|
+|Long-Read | Sequencing|Technologies|For|The | Win|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| 2021 (Coming Soon)| [2020](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2020)| [2019](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2019)| [2018](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2018)|[2017](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2017)|[2016](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2016)|
   
 **Key:**
   - Hi-C, chromosome conformation capture
