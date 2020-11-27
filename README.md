@@ -21,6 +21,12 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ## 2020
 
+**Title:** [Benchmarking metagenomic classification tools for long-read sequencing data](https://www.biorxiv.org/content/10.1101/2020.11.25.397729v1)
+
+**Platforms:** ONT and PacBio
+
+---
+
 **Title:** ↔🧬 [Telomere-to-telomere assembly of a complete human X chromosome](https://www.nature.com/articles/s41586-020-2547-7)
 
 **Description:** The study presents first ever gapless telomere-to-telomere assembly of human X chromosome, enabled by ultra-long reads.
