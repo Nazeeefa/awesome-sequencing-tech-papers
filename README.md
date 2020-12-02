@@ -67,13 +67,13 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ---
 
-**Title:** [Long-read human genome sequencing and its applications](https://www.nature.com/articles/s41576-020-0236-x)
+**Title:** 🧬 [Long-read human genome sequencing and its applications](https://www.nature.com/articles/s41576-020-0236-x)
 
 **Description:** A review article that focuses on SMRT sequencing and ONT, and compare those two major long-read technologies with short-read sequencing platforms in terms of read accuracy, throughput, and cost.
 
 ---
 
-**Title:** [Opportunities and challenges in long-read sequencing data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1935-5)
+**Title:** 📚 [Opportunities and challenges in long-read sequencing data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1935-5)
 
 **Description:** An overview of the bioinformatics pipelines for nanopore and PacBio sequencing, with a focus on downstream analyses such as error correction, structural variant calling, and detection of base modifications.
 
@@ -105,14 +105,14 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ---
 
-**Title:** 🇰🇷 [Comparative analysis of seven short-reads sequencing platforms using the Korean Reference Genome: MGI and Illumina sequencing benchmark for whole-genome sequencing](https://www.biorxiv.org/content/10.1101/2020.03.22.002840v1)
+**Title:** 🇰🇷🧬 [Comparative analysis of seven short-reads sequencing platforms using the Korean Reference Genome: MGI and Illumina sequencing benchmark for whole-genome sequencing](https://www.biorxiv.org/content/10.1101/2020.03.22.002840v1)
 
 **Description:** Systematic comparison of a new whole-genome sequencer MGISEQ-T7 against Illumina short-read sequencers. The study concluded the MGI platform can be used for genomics research at nearly half the cost of the Illumina platforms.
 
 **Platforms:** BGISEQ-500, MGISEQ-T7, HiSeq2000, HiSeq2500, HiSeq4000, HiSeqX10, and NovaSeq6000
 
 ---
-**Title:** [Comprehensive analysis of structural variants in breast cancer genomes using
+**Title:** 🧬 [Comprehensive analysis of structural variants in breast cancer genomes using
 single molecule sequencing](https://genome.cshlp.org/content/30/9/1258)
 
 **Description:** Analysis of the SKBR3 breast cancer cell line and patient-derived organoids representing tumor and matching normal cells from two breast cancer
@@ -128,14 +128,14 @@ patients.
 
 ---
 
-**Title:** 🇯🇵 [Construction and Integration of Three *De Novo* Japanese Human Genome Assemblies toward a Population-Specific Reference](https://www.biorxiv.org/content/10.1101/861658v1)
+**Title:** 🇯🇵🧬 [Construction and Integration of Three *De Novo* Japanese Human Genome Assemblies toward a Population-Specific Reference](https://www.biorxiv.org/content/10.1101/861658v1)
 
 **Description:** Construction of a reference genome using hybrid scaffolding approach by integrating *de novo* assemblies of three Japanese male individuals. BionanoSolve  software (v3.2) was used for hybrid scaffolding.
 
 **Platforms:** PacBio RSII (using P6-C4 chemistry),  Illumina HiSeq 2500 system (with a TruSeq Rapid PE Cluster kit and Rapid SBS kit), and Irys/Saphyr system (BioNano Genomics) for optical mapping.
 
 ---
-**Title:** 🇰🇷 [Chromosome-scale assembly comparison of the Korean Reference Genome KOREF from PromethION and PacBio with Hi-C mapping information](http://dx.doi.org/10.1093/gigascience/giz125)
+**Title:** 🇰🇷🧬 [Chromosome-scale assembly comparison of the Korean Reference Genome KOREF from PromethION and PacBio with Hi-C mapping information](http://dx.doi.org/10.1093/gigascience/giz125)
 
 **Description:** The study concludes that "the pore-based PromethION approach provides a good quality chromosome-scale human genome assembly at a low cost and is much more cost-effective than PacBio."
 
@@ -143,9 +143,15 @@ patients.
 
 ---
 
-**Title:** 💉🧬 [Long-Read Sequencing Emerging in Medical Genetics](https://www.frontiersin.org/articles/10.3389/fgene.2019.00426/full)
+**Title:** 📚💉🧬 [Long-Read Sequencing Emerging in Medical Genetics](https://www.frontiersin.org/articles/10.3389/fgene.2019.00426/full)
 
 **Description:** A review article that discusses potential of long-read sequencing technologies in a context of advancements in medical genetics.
+
+---
+
+**Title:** 📚🧬 [Long-read sequencing in deciphering human genetics to a greater depth](https://pubmed.ncbi.nlm.nih.gov/31538236/)
+
+**Description:** A review article focused towards advantages and limitations of long-read sequencing
 
 ---
 
@@ -163,23 +169,23 @@ patients.
 
 ---
 
-**Title:** [Multi-platform discovery of haplotype-resolved structural variation in human genomes](https://www.nature.com/articles/s41467-018-08148-z)
+**Title:** [Multi-platform discovery of haplotype-resolved structural variation in genomes](https://www.nature.com/articles/s41467-018-08148-z)
 
 ---
 
-**Title:** [Sequencing of human genomes with nanopore technology](https://www.nature.com/articles/s41467-019-09637-5)
+**Title:** 🧬 [Sequencing of human genomes with nanopore technology](https://www.nature.com/articles/s41467-019-09637-5)
 
 **Description:** The main focus of this study is the use of nanopore technology (MinION) for clinical use. In addition to evaluating performance of basecallers for SNV calls, the study also looked at comparison of large variants (>100bp) from read data generated by ONT, PacBio, and Illumina (section 3.2, supplementary).
 
 ## 2018
 
-**Title:** 💉🧬 [Single molecule real-time (SMRT) sequencing comes of age: applications and utilities for medical diagnostics](https://academic.oup.com/nar/article/46/5/2159/4833218)
+**Title:** 📚💉🧬 [Single molecule real-time (SMRT) sequencing comes of age: applications and utilities for medical diagnostics](https://academic.oup.com/nar/article/46/5/2159/4833218)
 
 **Description:** A summary of how SMRT sequencing technology has evolved into PacBio's RS II and Sequel systems and its use for various types of genetics studies.
 
 ---
 
-**Title:** 💉🧬 [Single-Molecule Sequencing: Towards Clinical Applications](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30204-X)
+**Title:** 📚💉🧬 [Single-Molecule Sequencing: Towards Clinical Applications](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30204-X)
 
 **Description:** A nice review on how PacBio and ONTs are being used for microbiology, pharmacogenomics, cancer studies, and so on.
 
@@ -204,11 +210,11 @@ patients.
 
 ## 2017
 
-**Title:** [A Review on the Applications of Next Generation Sequencing Technologies as Applied to Food-Related Microbiome Studies](https://www.frontiersin.org/articles/10.3389/fmicb.2017.01829/full)
+**Title:** 📚 [A Review on the Applications of Next Generation Sequencing Technologies as Applied to Food-Related Microbiome Studies](https://www.frontiersin.org/articles/10.3389/fmicb.2017.01829/full)
 
 **Title:** [Hybrid sequencing and map finding (HySeMaFi): optional strategies for extensively deciphering gene splicing and expression in organisms without reference genome](https://www.nature.com/articles/srep43793)
 
-**Title:** [DNA Sequencing Technologies: 2006-2016](https://www.nature.com/articles/nprot.2016.182)
+**Title:** 📚 [DNA Sequencing Technologies: 2006-2016](https://www.nature.com/articles/nprot.2016.182)
 
 ---
 
