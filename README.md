@@ -15,8 +15,8 @@
     - CLR, Continuous Long Read
   - 📚 Review Article
   - 🧬 Study involves human genomes
-  - 🦠 Study involves bacterial genomes
-  - 💉 Study is focused towards medical genetics
+  - 🦠 Bacterial genomes
+  - 💉 Focused towards medical genetics
   
   
 Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/issues). Thank you.
