@@ -1,9 +1,9 @@
 # awesome-sequencing-tech-papers
 
 **A collection of papers and preprints on comparison of long and/or short read sequencing technologies.**
-|Long-Read | Sequencing|Technologies|For|The | Win|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| 2021 (Coming Soon)| [2020](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2020)| [2019](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2019)| [2018](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2018)|[2017](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2017)|[2016](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2016)|
+|Long-Read | Sequencing|Technologies|For|The Win|
+|:--:|:--:|:--:|:--:|:--:|
+| 2021 (Coming Soon)| [2020](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2020)| [2019](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2019)| [2018](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2018)|[2017](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2017)|
   
 **Key:**
   - Hi-C, chromosome conformation capture
@@ -209,14 +209,6 @@ patients.
 **Title:** [Hybrid sequencing and map finding (HySeMaFi): optional strategies for extensively deciphering gene splicing and expression in organisms without reference genome](https://www.nature.com/articles/srep43793)
 
 **Title:** [DNA Sequencing Technologies: 2006-2016](https://www.nature.com/articles/nprot.2016.182)
-
-## 2016
-
-**Title:** 🦠 [Comparison of NGS technologies for the comprehensive assessment of full-length hepatitis C viral genomes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5035407/)
-
----
-
-**Title:** [The sequence of sequencers: The history of sequencing DNA](https://www.sciencedirect.com/science/article/pii/S0888754315300410)
 
 ---
 
