@@ -15,7 +15,7 @@
     - CLR, Continuous Long Read
   - 📚 Review Article
   - 🧬 Study involves human genomes
-  - 🦠 Bacterial genomes
+  - 🦠 Prokaryotic genomes
   - 💉 Focused towards medical genetics
   
   
@@ -83,11 +83,17 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ---
 
-**Title:** [A preliminary study on the potential of Nanopore MinION and Illumina MiSeq 16S rRNA gene sequencing to characterize building-dust microbiomes](https://www.nature.com/articles/s41598-020-59771-0)
+**Title:** 🦠 [A preliminary study on the potential of Nanopore MinION and Illumina MiSeq 16S rRNA gene sequencing to characterize building-dust microbiomes](https://www.nature.com/articles/s41598-020-59771-0)
 
 **Description:**
 
 **Platforms:** ONT MinION and Illumina MiSeq
+
+---
+
+**Title:** 🦠 [Benchmarking of long-read assemblers for prokaryote whole genome sequencing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6966772/)
+
+**Platforms:** ONT (MinION R9.4), PacBio (RSII CLR), and Illumina (for hybrid assemblies)
 
 ---
 
