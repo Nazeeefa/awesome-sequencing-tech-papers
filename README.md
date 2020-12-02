@@ -9,10 +9,14 @@
   - Hi-C, chromosome conformation capture
   - ONT, Oxford Nanopore Technology
   - PacBio, Pacific Biosciences
-    - SMRT, Single-Molecule Real-Time (adapted by PacBio)
+    - SMRT, Single-Molecule Real-Time
     - CCS, Circular Consensus Sequencing
     - Hi-Fi, High-Fidelity
     - CLR, Continuous Long Read
+  - 📚 Review Article
+  - 🧬 Study involves human genomes
+  - 🦠 Study involves bacterial genomes
+  - 💉 Study is focused towards medical genetics
   
   
 Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/issues). Thank you.
