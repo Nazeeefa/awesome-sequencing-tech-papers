@@ -109,9 +109,9 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ---
 
-**Title:** [Overcoming uncollapsed haplotypes in long-read assemblies of non-model organisms](https://www.biorxiv.org/content/10.1101/2020.03.16.993428v1)
+**Title:** [Overcoming uncollapsed haplotypes in long-read assemblies of non-model organisms](https://www.biorxiv.org/content/10.1101/2020.03.16.993428v2)
 
-**Description:** Assessment of long-read assemblers on PacBio and nanopore reads from the non-model non-vertebrate organism *Adineta vaga*
+**Description:** Assessment of six long-read assembly algorithms for PacBio and ONT reads from a non-model non-vertebrate organism *Adineta vaga*
 
 ---
 
