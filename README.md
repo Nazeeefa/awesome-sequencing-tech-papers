@@ -25,6 +25,12 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ## 2020
 
+**Title:** *Austropuccinia psidii*, causing myrtle  rust,  has a gigabase-sizedgenome shaped by transposable elements 
+
+**Platforms:** PacBio  RSII (18  SMRT cells), PacBio Sequel (11 SMRT cells), Hi-C, and Illumina  paired-end  reads  (125 bp  on  HiSeq).
+
+---
+
 **Title:** [Benchmarking metagenomic classification tools for long-read sequencing data](https://www.biorxiv.org/content/10.1101/2020.11.25.397729v1)
 
 **Platforms:** ONT and PacBio
