@@ -31,7 +31,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ---
 
-**Title:** ↔🧬 [Telomere-to-telomere assembly of a complete human X chromosome](https://www.nature.com/articles/s41586-020-2547-7)
+**Title:** 🧬 [Telomere-to-telomere assembly of a complete human X chromosome](https://www.nature.com/articles/s41586-020-2547-7)
 
 **Description:** The study presents first ever gapless telomere-to-telomere assembly of human X chromosome, enabled by ultra-long reads.
 
@@ -39,7 +39,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ---
 
-**Title:** [Benchmarking challenging small variants with linked and long reads](https://www.biorxiv.org/content/10.1101/2020.07.24.212712v1)
+**Title:** 🧬 [Benchmarking challenging small variants with linked and long reads](https://www.biorxiv.org/content/10.1101/2020.07.24.212712v1)
 
 **Description:** Use of long and linked reads to expand Genome In A Bottle's benchmark in order to indentify difficult regions such as segmental duplications.
 
