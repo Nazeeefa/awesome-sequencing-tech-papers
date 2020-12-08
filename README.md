@@ -14,8 +14,9 @@
     - Hi-Fi, High-Fidelity
     - CLR, Continuous Long Read
   - 📚 Review Article
-  - 🧬 Study involves human genomes
-  - 🦠 Prokaryotic genomes
+  - 🧬 Study involves human genome(s)
+  - 🦠 Prokaryotic genome(s)
+  - 🌱🌲🍂 Plant genome(s)
   - 💉 Focused towards medical genetics
   
   
@@ -25,7 +26,15 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ## 2020
 
-**Title:** [*Austropuccinia psidii*, causing myrtle  rust,  has a gigabase-sizedgenome shaped by transposable elements](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkaa015/6007476) 
+**Title:** 🧬 [Fully phased human genome assembly without parental data using single-cell strand sequencing and long reads](https://www.nature.com/articles/s41587-020-0719-5)
+
+**Description:** "Assembly workflow that combines Strand-seq and long reads in a reference-free manner to provide fully phased and highly contiguous *de novo* assemblies of diploid human genomes"
+
+**Platforms:** PacBio Sequel II (chemistry v1), and PacBio  RSII  (P6-C4 chemistry) and PacBio Sequel II (2.0 chemistry) for BAC clone insert sequencing
+
+---
+
+**Title:** 🌱 [*Austropuccinia psidii*, causing myrtle  rust,  has a gigabase-sizedgenome shaped by transposable elements](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkaa015/6007476) 
 
 **Platforms:** PacBio  RSII (18  SMRT cells), PacBio Sequel (11 SMRT cells), Hi-C, and Illumina  paired-end  reads  (125 bp  on  HiSeq).
 
@@ -41,7 +50,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Title:** 🦠🧬 [Benchmarking metagenomic classification tools for long-read sequencing data](https://www.biorxiv.org/content/10.1101/2020.11.25.397729v1)
 
-**Platforms:** ONT and PacBio
+**Platforms:** ONT and PacBio - See section 2.2 Test Datasets for information on data sources.
 
 ---
 
