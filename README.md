@@ -10,9 +10,9 @@
   - ONT, Oxford Nanopore Technology
   - PacBio, Pacific Biosciences
     - SMRT, Single-Molecule Real-Time
+    - CLR, Continuous Long Read
     - CCS, Circular Consensus Sequencing
     - Hi-Fi, High-Fidelity
-    - CLR, Continuous Long Read
   - 📚 Review Article
   - 🧬 Study involves human genome(s)
   - 🦠 Prokaryotic genome(s)
@@ -101,6 +101,8 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 ---
 
 **Title:** 🦠 [A preliminary study on the potential of Nanopore MinION and Illumina MiSeq 16S rRNA gene sequencing to characterize building-dust microbiomes](https://www.nature.com/articles/s41598-020-59771-0)
+
+**Platforms:** ONT's MinION (FLO-MAP R7.3 flowcell) and Illumina MiSeq (16S Metagenomic Sequencing kit, 2×300bp paired-end) 
 
 ---
 
