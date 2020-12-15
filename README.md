@@ -13,7 +13,7 @@
     - CLR, Continuous Long Read
     - CCS, Circular Consensus Sequencing
     - Hi-Fi, High-Fidelity
-  - 📚 Review Article
+  - 📚 Review/Opinion Article
   - 🧬 Study involves human genome(s)
   - 🦠 Prokaryotic genome(s)
   - 🌱🌲🍂 Plant genome(s)
@@ -26,17 +26,30 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ## 2020
 
+
+**Title:** [An Extensive Sequence Dataset of Gold-Standard Samples for Benchmarking and Development]()
+
+**Platforms:**  PacBio Sequel II System (Chemistry 2.0), and Illumina (NovaSeq, HiSeq4000, and HiSeqX)
+
+---
+
 **Title:** 🧬 [Fully phased human genome assembly without parental data using single-cell strand sequencing and long reads](https://www.nature.com/articles/s41587-020-0719-5)
 
 **Description:** "Assembly workflow that combines Strand-seq and long reads in a reference-free manner to provide fully phased and highly contiguous *de novo* assemblies of diploid human genomes"
 
-**Platforms:** PacBio Sequel II (chemistry v1), and PacBio  RSII  (P6-C4 chemistry) and PacBio Sequel II (2.0 chemistry) for BAC clone insert sequencing
+**Platforms:** PacBio Sequel II (Chemistry v1), and PacBio  RSII  (P6-C4 Chemistry) and PacBio Sequel II (Chemistry 2.0) for BAC clone insert sequencing
 
 ---
 
-**Title:** 🌱 [*Austropuccinia psidii*, causing myrtle  rust,  has a gigabase-sizedgenome shaped by transposable elements](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkaa015/6007476) 
+**Title:** 📚 [Sequencing platform shifts provide opportunities but pose challenges for combining genomic datasets](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13309)
 
-**Description:** A combination of long-read sequencing and Hi-C technology to generate contiguous dikaryotic reference genome
+**Description:** Opinion article that highlights impact of Illumina's base calling for sequencing data produced with four-channel chemistry (e.g. HiSeqX) and two-channel chemistry (e.g. NovaSeq).
+
+---
+
+**Title:** 🌱 [*Austropuccinia psidii*, causing myrtle  rust,  has a gigabase-sized genome shaped by transposable elements](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkaa015/6007476) 
+
+**Description:** A combination of long-read sequencing and Hi-C technology to generate contiguous dikaryotic reference genome. See Table 1 for statistics.
 
 **Platforms:** PacBio  RSII (18  SMRT cells), PacBio Sequel (11 SMRT cells), Hi-C, and Illumina  paired-end  reads  (125bp  on  HiSeq, 150bp on NextSeq 500).
 
