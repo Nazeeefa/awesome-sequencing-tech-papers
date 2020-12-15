@@ -1,9 +1,9 @@
 # awesome-sequencing-tech-papers
 
 **A collection of papers and preprints on comparison of long and/or short read sequencing technologies.**
-|Sequencing|Technologies|For|The | Win|
-|:--:|:--:|:--:|:--:|:--:|
-| 2021 (Coming Soon)| [2020](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2020)| [2019](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2019)| [2018](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2018)|[2017](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2017)|
+|Sequencing|Technologies|For|The Win|
+|:--:|:--:|:--:|:--:|
+| 2021 (Coming Soon)| [2020](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2020)| [2019](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2019)| [2018](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2018)|
   
 **Key:**
   - Hi-C, chromosome conformation capture
@@ -27,7 +27,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 ## 2020
 
 
-**Title:** [An Extensive Sequence Dataset of Gold-Standard Samples for Benchmarking and Development]()
+**Title:** 🧬 [An Extensive Sequence Dataset of Gold-Standard Samples for Benchmarking and Development]()
 
 **Platforms:**  PacBio Sequel II System (Chemistry 2.0), and Illumina (NovaSeq, HiSeq4000, and HiSeqX)
 
@@ -63,7 +63,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ---
 
-**Title:** 🦠🧬 [Benchmarking metagenomic classification tools for long-read sequencing data](https://www.biorxiv.org/content/10.1101/2020.11.25.397729v1)
+**Title:** 🦠 [Benchmarking metagenomic classification tools for long-read sequencing data](https://www.biorxiv.org/content/10.1101/2020.11.25.397729v1)
 
 **Platforms:** ONT and PacBio - See section 2.2 Test Datasets for information on data sources.
 
@@ -243,16 +243,6 @@ patients.
 ---
 
 **Title:** [High-throughput targeted long-read single cell sequencing reveals the clonal and transcriptional landscape of lymphocytes](https://www.biorxiv.org/content/10.1101/424945v1.full)
-
----
-
-## 2017
-
-**Title:** 📚 [A Review on the Applications of Next Generation Sequencing Technologies as Applied to Food-Related Microbiome Studies](https://www.frontiersin.org/articles/10.3389/fmicb.2017.01829/full)
-
-**Title:** [Hybrid sequencing and map finding (HySeMaFi): optional strategies for extensively deciphering gene splicing and expression in organisms without reference genome](https://www.nature.com/articles/srep43793)
-
-**Title:** 📚 [DNA Sequencing Technologies: 2006-2016](https://www.nature.com/articles/nprot.2016.182)
 
 ---
 
