@@ -26,7 +26,6 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ## 2020
 
-
 **Title:** 🧬 [An Extensive Sequence Dataset of Gold-Standard Samples for Benchmarking and Development]()
 
 **Platforms:**  PacBio Sequel II System (Chemistry 2.0), and Illumina (NovaSeq, HiSeq4000, and HiSeqX)
@@ -43,7 +42,21 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Title:** 📚 [Sequencing platform shifts provide opportunities but pose challenges for combining genomic datasets](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13309)
 
-**Description:** Opinion article that highlights impact of Illumina's base calling for sequencing data produced with four-channel chemistry (e.g. HiSeqX) and two-channel chemistry (e.g. NovaSeq).
+**Description:** Opinion article that highlights impact of Illumina's base calling for sequencing data produced with four-channel chemistry (e.g. HiSeqX) and two-channel chemistry (e.g. NextSeq and NovaSeq).
+
+---
+
+**Title:** 🦠 [Analytical validity of nanopore sequencing for rapid SARS-CoV-2 genome analysis](https://www.nature.com/articles/s41467-020-20075-6)
+
+**Platforms:** ONT PromethION and Illumina MiSeq
+
+---
+
+**Title:** 🌱 [Comparison of the two up-to-date sequencing technologies for genome assembly: HiFi reads of Pacific Biosciences Sequel II system and ultralong reads of Oxford Nanopore](https://academic.oup.com/gigascience/article/9/12/giaa123/6034784)
+
+**Description:** Comparison of two assemblies of *Oryza sativa* (rice)
+
+**Platforms:** ONT PromethION and PacBio Sequel II
 
 ---
 
@@ -59,7 +72,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Description:** The study presents first ever gapless telomere-to-telomere assembly of human X chromosome, enabled by ultra-long reads.
 
-**Platforms:** Illumina linked reads, 10X Genomics, PacBio (Continuous Long Reads and HiFi Reads), ONT, Hi-C
+**Platforms:** Illumina linked reads, 10X Genomics, PacBio (CLRs and HiFi Reads), ONT, and Hi-C.
 
 ---
 
@@ -71,7 +84,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Title:** 🧬 [Benchmarking challenging small variants with linked and long reads](https://www.biorxiv.org/content/10.1101/2020.07.24.212712v1)
 
-**Description:** Use of long and linked reads to expand Genome In A Bottle's benchmark in order to indentify difficult regions such as segmental duplications.
+**Description:** Use of long and linked reads to expand Genome In A Bottle's benchmark in order to indentify regions such as segmental duplications.
 
 **Platforms:** 10x Genomics, Complete Genomics, PacBio Sequel II, ONT.
 
@@ -81,7 +94,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Description:** Assessment of mitochondrial reads (using sequencing, assembly, and annotation) to study Siberian larch.
 
-**Platforms:** Illumina HiSeq 2000 and ONT MinION.
+**Platforms:** Illumina (HiSeq 2000) and ONT (MinION).
 
 ---
 
