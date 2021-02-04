@@ -26,15 +26,27 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ## 2021
 
-**Title:** [High-accuracy long-read amplicon sequences using unique molecular identifiers with Nanopore or PacBio sequencing](https://www.nature.com/articles/s41592-020-01041-y)
+**Title:** 🦠 [High-accuracy long-read amplicon sequences using unique molecular identifiers with Nanopore or PacBio sequencing](https://www.nature.com/articles/s41592-020-01041-y)
 
-**Platforms:**
+**Platforms:** ONT and PacBio
 
 ---
 
 ## 2020
 
-**Title:** 🧬 [An Extensive Sequence Dataset of Gold-Standard Samples for Benchmarking and Development]()
+**Title:** 🧬
+
+**Platforms:**
+
+---
+
+**Title:** 🧬
+
+**Platforms:**
+
+---
+
+**Title:** 🧬 [An Extensive Sequence Dataset of Gold-Standard Samples for Benchmarking and Development](https://www.biorxiv.org/content/10.1101/2020.12.11.422022v1)
 
 **Platforms:**  PacBio Sequel II System (Chemistry 2.0), and Illumina (NovaSeq, HiSeq4000, and HiSeqX)
 
