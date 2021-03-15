@@ -26,6 +26,9 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ## 2021
 
+
+**Title:** [Haplotype-aware variant calling enables high accuracy in nanopore long-reads using deep neural networks]
+
 **Title:** 🦠 [High-accuracy long-read amplicon sequences using unique molecular identifiers with Nanopore or PacBio sequencing](https://www.nature.com/articles/s41592-020-01041-y)
 
 **Platforms:** ONT and PacBio
