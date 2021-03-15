@@ -18,6 +18,7 @@
   - 🦠 Prokaryotic genome(s)
   - 🌱🌲🍂 Plant genome(s)
   - 💉 Focused towards medical genetics
+  - 🛠 Involved tool/software development
   
   
 Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/issues). Thank you.
@@ -27,7 +28,11 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 ## 2021
 
 
-**Title:** [Haplotype-aware variant calling enables high accuracy in nanopore long-reads using deep neural networks]
+**Title:** 🛠 [Haplotype-aware variant calling enables high accuracy in nanopore long-reads using deep neural networks](https://www.biorxiv.org/content/10.1101/2021.03.04.433952v1)
+
+**Platforms:**
+
+---
 
 **Title:** 🦠 [High-accuracy long-read amplicon sequences using unique molecular identifiers with Nanopore or PacBio sequencing](https://www.nature.com/articles/s41592-020-01041-y)
 
