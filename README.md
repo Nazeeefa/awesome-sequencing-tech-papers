@@ -112,7 +112,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ---
 
-**Title:** 🌲🍂 [Siberian larch (*Larix sibirica Ledeb.*) mitochondrial genome assembled using both short and long nucleotide sequence reads is currently the largest known mitogenome](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07061-4)
+**Title:** 🌲 🍂 [Siberian larch (*Larix sibirica Ledeb.*) mitochondrial genome assembled using both short and long nucleotide sequence reads is currently the largest known mitogenome](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07061-4)
 
 **Description:** Assessment of mitochondrial reads (using sequencing, assembly, and annotation) to study Siberian larch.
 
@@ -178,7 +178,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ---
 
-**Title:** 🇰🇷🧬 [Comparative analysis of seven short-reads sequencing platforms using the Korean Reference Genome: MGI and Illumina sequencing benchmark for whole-genome sequencing](https://www.biorxiv.org/content/10.1101/2020.03.22.002840v1)
+**Title:** 🇰🇷 🧬 [Comparative analysis of seven short-reads sequencing platforms using the Korean Reference Genome: MGI and Illumina sequencing benchmark for whole-genome sequencing](https://www.biorxiv.org/content/10.1101/2020.03.22.002840v1)
 
 **Description:** Systematic comparison of a new whole-genome sequencer MGISEQ-T7 against Illumina short-read sequencers. The study concluded the MGI platform can be used for genomics research at nearly half the cost of the Illumina platforms.
 
