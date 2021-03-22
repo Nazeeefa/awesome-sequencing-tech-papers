@@ -42,7 +42,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ## 2020
 
-**Title:** 🧬 [Evaluation of Single-Molecule Sequencing Technologies for Structural Variant Detection in Two Swedish Human Genomes](https://www.mdpi.com/2073-4425/11/12/1444)
+**Title:** 🇸🇪 🧬 [Evaluation of Single-Molecule Sequencing Technologies for Structural Variant Detection in Two Swedish Human Genomes](https://www.mdpi.com/2073-4425/11/12/1444)
 
 **Platforms:** ONT's PromethION, and PacBio RS II.
 
