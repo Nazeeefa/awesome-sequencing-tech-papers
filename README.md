@@ -30,6 +30,8 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Title:** 🛠 [Haplotype-aware variant calling enables high accuracy in nanopore long-reads using deep neural networks](https://www.biorxiv.org/content/10.1101/2021.03.04.433952v1)
 
+**Title:** 🧬 [Structural variant selection for high-altitude adaptation using single-molecule long-read sequencing](https://www.biorxiv.org/content/10.1101/2021.03.27.436702v1)
+
 **Platforms:**
 
 ---
