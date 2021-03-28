@@ -16,7 +16,7 @@
   - 📚 Review/Opinion Article
   - 🧬 Study involves human genome(s)
   - 🦠 Prokaryotic genome(s)
-  - 🌱🌲🍂 Plant genome(s)
+  - 🌱 Plant genome(s)
   - 💉 Focused towards medical genetics
   - 🛠 Involved tool/software development
   
@@ -118,7 +118,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ---
 
-**Title:** 🌲 🍂 [Siberian larch (*Larix sibirica Ledeb.*) mitochondrial genome assembled using both short and long nucleotide sequence reads is currently the largest known mitogenome](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07061-4)
+**Title:** 🌱 [Siberian larch (*Larix sibirica Ledeb.*) mitochondrial genome assembled using both short and long nucleotide sequence reads is currently the largest known mitogenome](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07061-4)
 
 **Description:** Assessment of mitochondrial reads (using sequencing, assembly, and annotation) to study Siberian larch.
 
@@ -209,14 +209,14 @@ patients.
 
 ---
 
-**Title:** 🇯🇵🧬 [Construction and Integration of Three *De Novo* Japanese Human Genome Assemblies toward a Population-Specific Reference](https://www.biorxiv.org/content/10.1101/861658v1)
+**Title:** 🇯🇵 🧬 [Construction and Integration of Three *De Novo* Japanese Human Genome Assemblies toward a Population-Specific Reference](https://www.biorxiv.org/content/10.1101/861658v1)
 
 **Description:** Construction of a reference genome using hybrid scaffolding approach by integrating *de novo* assemblies of three Japanese male individuals. BionanoSolve  software (v3.2) was used for hybrid scaffolding.
 
 **Platforms:** PacBio RSII (using P6-C4 chemistry),  Illumina HiSeq 2500 system (with a TruSeq Rapid PE Cluster kit and Rapid SBS kit), and Irys/Saphyr system (BioNano Genomics) for optical mapping.
 
 ---
-**Title:** 🇰🇷🧬 [Chromosome-scale assembly comparison of the Korean Reference Genome KOREF from PromethION and PacBio with Hi-C mapping information](http://dx.doi.org/10.1093/gigascience/giz125)
+**Title:** 🇰🇷 🧬 [Chromosome-scale assembly comparison of the Korean Reference Genome KOREF from PromethION and PacBio with Hi-C mapping information](http://dx.doi.org/10.1093/gigascience/giz125)
 
 **Description:** The study concludes that "the pore-based PromethION approach provides a good quality chromosome-scale human genome assembly at a low cost and is much more cost-effective than PacBio."
 
@@ -230,7 +230,7 @@ patients.
 
 ---
 
-**Title:** 📚🧬 [Long-read sequencing in deciphering human genetics to a greater depth](https://pubmed.ncbi.nlm.nih.gov/31538236/)
+**Title:** 📚 🧬 [Long-read sequencing in deciphering human genetics to a greater depth](https://pubmed.ncbi.nlm.nih.gov/31538236/)
 
 **Description:** A review article focused towards advantages and limitations of long-read sequencing
 
