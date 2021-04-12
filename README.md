@@ -28,7 +28,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 ## 2021
 
 
-**Title:** 🛠 [Haplotype-aware variant calling enables high accuracy in nanopore long-reads using deep neural networks](https://www.biorxiv.org/content/10.1101/2021.03.04.433952v1)
+**Title:** 🛠 🧬 [Haplotype-aware variant calling enables high accuracy in nanopore long-reads using deep neural networks](https://www.biorxiv.org/content/10.1101/2021.03.04.433952v1)
 
 **Platforms:**
 
