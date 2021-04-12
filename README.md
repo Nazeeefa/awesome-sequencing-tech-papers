@@ -18,7 +18,7 @@
   - 🦠 Prokaryotic genome(s)
   - 🌱 Plant genome(s)
   - 💉 Focused towards medical genetics
-  - 🛠 Involved tool/software development
+  - 🛠 Includes tool/software development
   
   
 Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/issues). Thank you.
