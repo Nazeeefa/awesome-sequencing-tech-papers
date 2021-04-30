@@ -27,6 +27,14 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ## 2021
 
+**Title:** 🧬 [Long-read cDNA sequencing identifies functional pseudogenes in the human transcriptome](https://www.biorxiv.org/content/10.1101/2021.03.29.437610v1)
+
+**Platforms:** Comparison was performed between data from  Illumina Human BodyMap 2.0 Project and PacBio Sequel II
+
+**Title:** [High molecular weight DNA extraction strategies for long-read sequencing of complex metagenomes](https://www.biorxiv.org/content/10.1101/2021.03.03.433801v2)
+
+**Platforms:** Illumina MiSeq and NextSeq500 and ONT's MinION
+
 
 **Title:** 🛠 🧬 [Haplotype-aware variant calling enables high accuracy in nanopore long-reads using deep neural networks](https://www.biorxiv.org/content/10.1101/2021.03.04.433952v1)
 
@@ -292,6 +300,6 @@ patients.
 
 **Title:** [High-throughput targeted long-read single cell sequencing reveals the clonal and transcriptional landscape of lymphocytes](https://www.biorxiv.org/content/10.1101/424945v1.full)
 
-#
+---
 
 Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/issues). Thank you.
