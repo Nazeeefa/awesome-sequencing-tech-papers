@@ -32,13 +32,13 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Platforms:**
 
----
+##
 
 **Title:** 🧬 [Structural variant selection for high-altitude adaptation using single-molecule long-read sequencing](https://www.biorxiv.org/content/10.1101/2021.03.27.436702v1)
 
 **Platforms:** ONT and PacBio
 
----
+##
 
 **Title:** 🦠 [High-accuracy long-read amplicon sequences using unique molecular identifiers with Nanopore or PacBio sequencing](https://www.nature.com/articles/s41592-020-01041-y)
 
@@ -52,13 +52,13 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Platforms:** ONT's PromethION, and PacBio RS II.
 
----
+#
 
 **Title:** 🧬 [An Extensive Sequence Dataset of Gold-Standard Samples for Benchmarking and Development](https://www.biorxiv.org/content/10.1101/2020.12.11.422022v1)
 
 **Platforms:**  PacBio Sequel II System (Chemistry 2.0), and Illumina (NovaSeq, HiSeq4000, and HiSeqX)
 
----
+#
 
 **Title:** 🧬 [Fully phased human genome assembly without parental data using single-cell strand sequencing and long reads](https://www.nature.com/articles/s41587-020-0719-5)
 
@@ -66,7 +66,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Platforms:** PacBio Sequel II (Chemistry v1), and PacBio  RSII  (P6-C4 Chemistry) and PacBio Sequel II (Chemistry 2.0) for BAC clone insert sequencing
 
----
+#
 
 **Title:** 📚 [Sequencing platform shifts provide opportunities but pose challenges for combining genomic datasets](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13309)
 
