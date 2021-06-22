@@ -27,14 +27,23 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ## 2021
 
+**Title:** 🧬 [The complete sequence of a human genome](https://www.biorxiv.org/content/10.1101/2021.05.26.445798v1)
+
+**Platforms:**
+
+#
+
 **Title:** 🧬 [Long-read cDNA sequencing identifies functional pseudogenes in the human transcriptome](https://www.biorxiv.org/content/10.1101/2021.03.29.437610v1)
 
 **Platforms:** Comparison was performed between data from  Illumina Human BodyMap 2.0 Project and PacBio Sequel II
+
+#
 
 **Title:** [High molecular weight DNA extraction strategies for long-read sequencing of complex metagenomes](https://www.biorxiv.org/content/10.1101/2021.03.03.433801v2)
 
 **Platforms:** Illumina MiSeq and NextSeq500 and ONT's MinION
 
+#
 
 **Title:** 🛠 🧬 [Haplotype-aware variant calling enables high accuracy in nanopore long-reads using deep neural networks](https://www.biorxiv.org/content/10.1101/2021.03.04.433952v1)
 
