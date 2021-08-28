@@ -27,11 +27,13 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ## 2021
 
-**Title:** 
+**Title:** [Combined use of Oxford Nanopore and Illumina sequencing yields insights into soybean structural variation biology](https://www.biorxiv.org/content/10.1101/2021.08.26.457816v1)
 
 **Description:** The study is about exploring structural variants (SVs) in soybean's transposable element (TE) . The authors developed a pipeline to find whether SVs at various sites were due to novel TE insertion and/or excision.
 
-**Platforms:** ONT (SQK-LSK109 genomic DNA ligation kit) MinION with a FLO-MIN106D flowcell (R9 chemistry), and Illumina HiSeq 2500
+**Platforms:** ONT MinION (SQK-LSK109 genomic DNA ligation kit) with a FLO-MIN106D flowcell (R9 chemistry), and Illumina HiSeq 2500
+
+#
 
 **Title:** 🦠 [Microbial metagenome-assembled genomes of the Fram Strait from short and long read sequencing platforms[(https://peerj.com/articles/11721/)
 
