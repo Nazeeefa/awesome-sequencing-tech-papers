@@ -27,6 +27,12 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ## 2021
 
+**Title:** 🦠 [Microbial metagenome-assembled genomes of the Fram Strait from short and long read sequencing platforms[(https://peerj.com/articles/11721/)
+
+**Platforms:** Comparison was performed on datasets from marine environmental samples usinng PacBio Sequel II and Illumina HiSeq 3000.
+
+#
+
 **Title:** 🧬 [The complete sequence of a human genome](https://www.biorxiv.org/content/10.1101/2021.05.26.445798v1)
 
 **Platforms:**
