@@ -1,6 +1,6 @@
 # awesome-sequencing-tech-papers
 
-**A collection of papers and preprints on comparison of long and/or short read sequencing technologies.**
+**A collection of papers on comparison of long and/or short read sequencing technologies.**
 |Sequencing|Technologies|For|The Win|
 |:--:|:--:|:--:|:--:|
 | [2021](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2021) | [2020](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2020)| [2019](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2019)| [2018](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2018)|
