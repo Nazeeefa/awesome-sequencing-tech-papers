@@ -3,7 +3,7 @@
 **A collection of papers on comparison of long and/or short read sequencing technologies.**
 |Sequencing|Technologies|For|The Win|
 |:--:|:--:|:--:|:--:|
-| [2021](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2021) | [2020](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2020)| [2019](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2019)| [2018](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/blob/master/2018_List.md)|
+| [2021](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2021) | [2020](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2020)| [2019](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/blob/master/Sequencing_Tech_2019_Papers.md)| [2018](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/blob/master/2018_List.md)|
   
 **Key:**
   - Hi-C, chromosome conformation capture
@@ -26,6 +26,12 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 ---
 
 ## 2021
+
+**Title:** 
+
+**Description:** The study is about exploring structural variants (SVs) in soybean's transposable element (TE) . The authors developed a pipeline to find whether SVs at various sites were due to novel TE insertion and/or excision.
+
+**Platforms:** ONT (SQK-LSK109 genomic DNA ligation kit) MinION with a FLO-MIN106D flowcell (R9 chemistry), and Illumina HiSeq 2500
 
 **Title:** 🦠 [Microbial metagenome-assembled genomes of the Fram Strait from short and long read sequencing platforms[(https://peerj.com/articles/11721/)
 
@@ -222,66 +228,6 @@ single molecule sequencing](https://genome.cshlp.org/content/30/9/1258)
 patients.
 
 **Platforms:** ONT MinION (R9.1 flow cell) , PacBio Sequel (SMRTbell template prep kit 1.0), Illumina (TruSeq RNA Library prep kit), and 10x Genomics
-
----
-
-## 2019
-
-**Title:** 🐭 & 🧬 [Comparative analysis of sequencing technologies for single-cell transcriptomics](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1676-5)
-
-**Platforms:** BGISEQ-500 and Illumina (HiSeq2500 and HiSeq4000)
-
-#
-
-**Title:** 🇯🇵 🧬 [Construction and Integration of Three *De Novo* Japanese Human Genome Assemblies toward a Population-Specific Reference](https://www.biorxiv.org/content/10.1101/861658v1)
-
-**Description:** Construction of a reference genome using hybrid scaffolding approach by integrating *de novo* assemblies of three Japanese male individuals. BionanoSolve  software (v3.2) was used for hybrid scaffolding.
-
-**Platforms:** PacBio RSII (using P6-C4 chemistry),  Illumina HiSeq 2500 system (with a TruSeq Rapid PE Cluster kit and Rapid SBS kit), and Irys/Saphyr system (BioNano Genomics) for optical mapping.
-
-#
-
-**Title:** 🇰🇷 🧬 [Chromosome-scale assembly comparison of the Korean Reference Genome KOREF from PromethION and PacBio with Hi-C mapping information](http://dx.doi.org/10.1093/gigascience/giz125)
-
-**Description:** The study concludes that "the pore-based PromethION approach provides a good quality chromosome-scale human genome assembly at a low cost and is much more cost-effective than PacBio."
-
-**Platforms:** ONT PromethION R9.4.1, PacBio Sequel, Illumina HiSeq 2000, and Arima-HiC kit (A160105 v01)
-
-#
-
-**Title:** 📚💉🧬 [Long-Read Sequencing Emerging in Medical Genetics](https://www.frontiersin.org/articles/10.3389/fgene.2019.00426/full)
-
-**Description:** A review article that discusses potential of long-read sequencing technologies in a context of advancements in medical genetics.
-
-#
-
-**Title:** 📚 🧬 [Long-read sequencing in deciphering human genetics to a greater depth](https://pubmed.ncbi.nlm.nih.gov/31538236/)
-
-**Description:** A review article focused towards advantages and limitations of long-read sequencing
-
-#
-
-**Title:** 🦠 [Comparison of long-read sequencing technologies in the hybrid assembly of complex bacterial genomes](https://www.biorxiv.org/content/10.1101/530824v2)
-
-#
-
-**Title:** 🌱 [A critical comparison of technologies for a plant genome sequencing project](https://academic.oup.com/gigascience/article/8/3/giy163/5281243)
-
-**Description:** Comparison between Illumina short read, PacBio, 10x Genomics linked reads, Dovetail Hi-C, and BioNano optical maps for assembling high-quality potato species *Solanum verrucosum*. The comparison involves assessment of completeness, accuracy, requirements, and sequencing costs.
-
-#
-
-**Title:** [Illumina and Nanopore methods for whole genome sequencing of hepatitis B virus (HBV)](https://www.nature.com/articles/s41598-019-43524-9)
-
-#
-
-**Title:** [Multi-platform discovery of haplotype-resolved structural variation in genomes](https://www.nature.com/articles/s41467-018-08148-z)
-
-#
-
-**Title:** 🧬 [Sequencing of human genomes with nanopore technology](https://www.nature.com/articles/s41467-019-09637-5)
-
-**Description:** The main focus of this study is the use of nanopore technology (MinION) for clinical use. In addition to evaluating performance of basecallers for SNV calls, the study also looked at comparison of large variants (>100bp) from read data generated by ONT, PacBio, and Illumina (section 3.2, supplementary).
 
 ---
 
