@@ -41,14 +41,6 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 #
 
-**Title:** 🧬 [The complete sequence of a human genome](https://www.biorxiv.org/content/10.1101/2021.05.26.445798v1)
-
-**Description:** Exploring remaining 8% of the genome to get the full picture (gapless human assembly!) The study uses CHM13 cell line and in addition to genomic data, Iso-seq (isoform sequencing) transcriptome data of CHM13 was analysed.
-
-**Platforms:** ONT, PacBio, and 
-
-#
-
 **Title:** 🧬 [Long-read cDNA sequencing identifies functional pseudogenes in the human transcriptome](https://www.biorxiv.org/content/10.1101/2021.03.29.437610v1)
 
 **Platforms:** Comparison was performed between data from  Illumina Human BodyMap 2.0 Project and PacBio Sequel II
