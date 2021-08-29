@@ -35,7 +35,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 #
 
-**Title:** 🦠 [Microbial metagenome-assembled genomes of the Fram Strait from short and long read sequencing platforms[(https://peerj.com/articles/11721/)
+**Title:** 🦠 [Microbial metagenome-assembled genomes of the Fram Strait from short and long read sequencing platforms](https://peerj.com/articles/11721/)
 
 **Platforms:** Comparison was performed on datasets from marine environmental samples usinng PacBio Sequel II and Illumina HiSeq 3000.
 
