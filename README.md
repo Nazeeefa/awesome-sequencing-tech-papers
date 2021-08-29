@@ -53,7 +53,9 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 #
 
-**Title:** [High molecular weight DNA extraction strategies for long-read sequencing of complex metagenomes](https://www.biorxiv.org/content/10.1101/2021.03.03.433801v2)
+**Title:** 🦠😛 [High molecular weight DNA extraction strategies for long-read sequencing of complex metagenomes](https://www.biorxiv.org/content/10.1101/2021.03.03.433801v2)
+
+**Description:** The study involves samples from human tongue.
 
 **Platforms:** Illumina MiSeq and NextSeq500 and ONT's MinION
 
