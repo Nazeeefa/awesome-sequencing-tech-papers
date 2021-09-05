@@ -211,7 +211,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 #
 
-**Title:** 🇰🇷 🧬 [Comparative analysis of seven short-reads sequencing platforms using the Korean Reference Genome: MGI and Illumina sequencing benchmark for whole-genome sequencing](https://www.biorxiv.org/content/10.1101/2020.03.22.002840v1)
+**Title:** 🇰🇷 🧬 [Comparative analysis of seven short-reads sequencing platforms using the Korean Reference Genome: MGI and Illumina sequencing benchmark for whole-genome sequencing](https://academic.oup.com/gigascience/article/10/3/giab014/6168811)
 
 **Description:** Systematic comparison of a new whole-genome sequencer MGISEQ-T7 against Illumina short-read sequencers. The study concluded the MGI platform can be used for genomics research at nearly half the cost of the Illumina platforms.
 
