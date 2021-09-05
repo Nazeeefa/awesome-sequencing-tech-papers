@@ -41,6 +41,12 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 #
 
+**Title:** 🦠 [Benchmarking metagenomic classification tools for long-read sequencing data](https://www.biorxiv.org/content/10.1101/2020.11.25.397729v2)
+
+**Platforms:** ONT and PacBio - See section 2.2 Test Datasets for information on data sources.
+
+#
+
 **Title:** 🧬 [Long-read cDNA sequencing identifies functional pseudogenes in the human transcriptome](https://www.biorxiv.org/content/10.1101/2021.03.29.437610v1)
 
 **Platforms:** Comparison was performed between data from  Illumina Human BodyMap 2.0 Project and PacBio Sequel II
