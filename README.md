@@ -199,7 +199,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 #
 
-**Title:** [Long-read error correction: a survey and qualitative comparison](https://www.biorxiv.org/content/10.1101/2020.03.06.977975v2)
+**Title:** [Long-read error correction: a survey and qualitative comparison](https://www.biorxiv.org/content/10.1101/2020.03.06.977975v3)
 
 **Description:** A comprehensive analysis of 29 tools using PacBio and nanopore data.
 
