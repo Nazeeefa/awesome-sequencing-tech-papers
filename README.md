@@ -131,12 +131,6 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 #
 
-**Title:** 🦠 [Benchmarking metagenomic classification tools for long-read sequencing data](https://www.biorxiv.org/content/10.1101/2020.11.25.397729v1)
-
-**Platforms:** ONT and PacBio - See section 2.2 Test Datasets for information on data sources.
-
-#
-
 **Title:** 🧬 [Benchmarking challenging small variants with linked and long reads](https://www.biorxiv.org/content/10.1101/2020.07.24.212712v1)
 
 **Description:** Use of long and linked reads to expand Genome In A Bottle's benchmark in order to indentify regions such as segmental duplications.
