@@ -1,6 +1,6 @@
 # awesome-sequencing-tech-papers
 
-**A collection of papers on comparison of long and/or short read sequencing technologies.**
+**A collection of papers on comparison of long and/or short read sequencing technologies (and data generated from the platforms).**
 |Sequencing|Technologies|For|The Win|
 |:--:|:--:|:--:|:--:|
 | [2021](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2021) | [2020](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2020)| [2019](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/blob/master/Sequencing_Tech_2019_Papers.md)| [2018](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/blob/master/Sequencing_Tech_2018_Papers.md)|
@@ -62,6 +62,8 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 #
 
 **Title:** 🛠 🧬 [Haplotype-aware variant calling enables high accuracy in nanopore long-reads using deep neural networks](https://www.biorxiv.org/content/10.1101/2021.03.04.433952v1)
+
+**Description:** Evaluation of variant calling performance and runtime comparison of haplotype-aware pipelines
 
 **Platforms:**
 
