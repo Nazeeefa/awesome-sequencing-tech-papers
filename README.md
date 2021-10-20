@@ -75,7 +75,9 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Title:** 🦠 [High-accuracy long-read amplicon sequences using unique molecular identifiers with Nanopore or PacBio sequencing](https://www.nature.com/articles/s41592-020-01041-y)
 
-**Platforms:** ONT and PacBio
+**Description:** Comparison of ONT R9.4.1, PacBio CCS, and ONT R10.3 UMI (Unique Molecular Identifier)
+
+**Platforms:** ONT MinION and PacBio Sequel II
 
 ---
 
