@@ -69,11 +69,11 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 #
 
-**Title:** 🧬 
+**Title:** 🧬 [Targeted long-read sequencing identifies missing disease-causing variation](https://www.cell.com/ajhg/fulltext/S0002-9297(21)00230-5)
 
-**Description:** 
+**Description:** Use of adaptive sampling via ONT and PacBio platforms
 
-**Platforms:**
+**Platforms:** ONT's GridION (with MinKNOW control software v18.04.1), PacBio CLR sequencing (SMRT Cell 1Ms on the Sequel platform using v3 chemistry), and PacBio HiFi sequencing (SMRT Cell 8M on a Sequel II instrument)
 
 #
 
