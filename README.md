@@ -27,6 +27,14 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ## 2021
 
+**Title:** 🛠 🧬 [Haplotype-aware variant calling enables high accuracy in nanopore long-reads using deep neural networks](https://www.nature.com/articles/s41592-021-01299-w)
+
+**Description:** Evaluation of variant calling performance and runtime comparison of haplotype-aware pipelines
+
+**Platforms:**
+
+#
+
 **Title:** 🌱 [Combined use of Oxford Nanopore and Illumina sequencing yields insights into soybean structural variation biology](https://www.biorxiv.org/content/10.1101/2021.08.26.457816v1)
 
 **Description:** The study is about exploring structural variants (SVs) in soybean's transposable element (TE) . The authors developed a pipeline to find whether SVs at various sites were due to novel TE insertion and/or excision.
@@ -61,9 +69,9 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 #
 
-**Title:** 🛠 🧬 [Haplotype-aware variant calling enables high accuracy in nanopore long-reads using deep neural networks](https://www.biorxiv.org/content/10.1101/2021.03.04.433952v1)
+**Title:** 🧬 
 
-**Description:** Evaluation of variant calling performance and runtime comparison of haplotype-aware pipelines
+**Description:** 
 
 **Platforms:**
 
