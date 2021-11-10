@@ -31,7 +31,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Description:** Evaluation of variant calling performance and runtime comparison of haplotype-aware pipelines
 
-**Platforms:**
+**Platforms:** The study used the HG003 and HG004 samples (from [PrecisionFDA](https://doi.org/10.1101/2020.11.13.380741)); analysing the 35X coverage of Illumina NovaSeq reads, 35X PacBio HiFi, and 90X ONT.
 
 #
 
