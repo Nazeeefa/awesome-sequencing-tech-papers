@@ -89,6 +89,12 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Platforms:** ONT MinION and PacBio Sequel II
 
+#
+
+**Title:** 🦠 [Benchmarking of long-read assemblers for prokaryote whole genome sequencing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6966772/)
+
+**Platforms:** ONT MinION (R9.4), PacBio RSII (CLR), and Illumina (for hybrid assemblies)
+
 
 ---
 
