@@ -121,7 +121,37 @@
 
 #
 
-**Title:** 🦠 [Benchmarking of long-read assemblers for prokaryote whole genome sequencing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6966772/)
+**Title:** 🦁 [Long live the king: chromosome-level assembly of the lion (Panthera leo) using linked-read, Hi-C, and long-read data](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-019-0734-5)
 
-**Platforms:** ONT MinION (R9.4), PacBio RSII (CLR), and Illumina (for hybrid assemblies)
+**Description:** The study showed that data from 10x Genomics and Dovetai Hi-C were sufficient for chromosome genome assembly. For sequence fill-in (closing gaps between contigs with ambiguous sequence), nanopore data (MinION) was used. Besides quality of assembly and phylogenetic relationships of species taxa, the study reports how reference genome bias influences heterozygosity estimates across species.
+
+#
+
+**Title:** [Long-read error correction: a survey and qualitative comparison](https://www.biorxiv.org/content/10.1101/2020.03.06.977975v3)
+
+**Description:** A comprehensive analysis of 29 tools using PacBio and nanopore data.
+
+#
+
+**Title:** [Overcoming uncollapsed haplotypes in long-read assemblies of non-model organisms](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04118-3)
+
+**Description:** Assessment of six long-read assembly algorithms for PacBio and ONT reads from a non-model non-vertebrate organism *Adineta vaga*
+
+#
+
+**Title:** 🇰🇷 🧬 [Comparative analysis of seven short-reads sequencing platforms using the Korean Reference Genome: MGI and Illumina sequencing benchmark for whole-genome sequencing](https://academic.oup.com/gigascience/article/10/3/giab014/6168811)
+
+**Description:** Systematic comparison of a new whole-genome sequencer MGISEQ-T7 against Illumina short-read sequencers. The study concluded the MGI platform can be used for genomics research at nearly half the cost of the Illumina platforms.
+
+**Platforms:** BGISEQ-500, MGISEQ-T7, HiSeq2000, HiSeq2500, HiSeq4000, HiSeqX10, and NovaSeq6000
+
+#
+
+**Title:** 🧬 [Comprehensive analysis of structural variants in breast cancer genomes using
+single molecule sequencing](https://genome.cshlp.org/content/30/9/1258)
+
+**Description:** Analysis of the SKBR3 breast cancer cell line and patient-derived organoids representing tumor and matching normal cells from two breast cancer
+patients.
+
+**Platforms:** ONT MinION (R9.1 flow cell) , PacBio Sequel (SMRTbell template prep kit 1.0), Illumina (TruSeq RNA Library prep kit), and 10x Genomics
 
