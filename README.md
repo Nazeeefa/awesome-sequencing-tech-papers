@@ -25,6 +25,18 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 ---
 
+## 2022
+
+#
+
+**Title:** [Target enrichment long-read sequencing with adaptive sampling can determine the structure of the small supernumerary marker chromosomes](https://www.nature.com/articles/s10038-021-01004-x)
+
+**Description:** Comparative analysis of two clinical samples
+
+**Platforms:** HiSeq 1500 (2 × 101 bp) and, ONT's GridION using R9.4.1 flowcell (ligation sequencing kit SQK-LSK109)
+
+#
+
 ## 2021
 
 **Title:** 🛠 🧬 [Haplotype-aware variant calling enables high accuracy in nanopore long-reads using deep neural networks](https://www.nature.com/articles/s41592-021-01299-w)
