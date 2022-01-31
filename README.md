@@ -29,7 +29,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 #
 
-**Title:** [Target enrichment long-read sequencing with adaptive sampling can determine the structure of the small supernumerary marker chromosomes](https://www.nature.com/articles/s10038-021-01004-x)
+**Title:** 🧬 [Target enrichment long-read sequencing with adaptive sampling can determine the structure of the small supernumerary marker chromosomes](https://www.nature.com/articles/s10038-021-01004-x)
 
 **Description:** Comparative analysis of two clinical samples
 
