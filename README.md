@@ -37,7 +37,11 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 #
 
-**Title:** 🧬 An assessment of bioinformatics tools for the detection of human endogenous retroviral insertions in short-read genome sequencing data ()
+**Title:** 🧬 [An assessment of bioinformatics tools for the detection of human endogenous retroviral insertions in short-read genome sequencing data](https://www.biorxiv.org/content/10.1101/2022.02.18.481042v1)
+
+**Description:** Analysis of 50 human endogenous retroviruses (HERVs) short-read whole-genome sequences, "matching long and short read data, and simulated short-read data."
+
+**Platforms:** Illumina
 
 #
 
