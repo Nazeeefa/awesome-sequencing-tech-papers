@@ -37,6 +37,10 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 #
 
+**Title:** 🧬 An assessment of bioinformatics tools for the detection of human endogenous retroviral insertions in short-read genome sequencing data ()
+
+#
+
 ## 2021
 
 **Title:** 🛠 🧬 [Haplotype-aware variant calling enables high accuracy in nanopore long-reads using deep neural networks](https://www.nature.com/articles/s41592-021-01299-w)
