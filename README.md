@@ -29,7 +29,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 #
 
-1Sequencing of individual barcoded cDNAs on Pacific Biosciences and Oxford Nanopore revealsplatform-specific error patterns
+**Title:** [Sequencing of individual barcoded cDNAs on Pacific Biosciences and Oxford Nanopore reveals platform-specific error patterns](https://www.biorxiv.org/content/10.1101/2022.01.17.476636v1)
 
 #
 
