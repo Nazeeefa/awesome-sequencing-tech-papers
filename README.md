@@ -29,6 +29,10 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 #
 
+1Sequencing of individual barcoded cDNAs on Pacific Biosciences and Oxford Nanopore revealsplatform-specific error patterns
+
+#
+
 **Title:** 🧬 [Target enrichment long-read sequencing with adaptive sampling can determine the structure of the small supernumerary marker chromosomes](https://www.nature.com/articles/s10038-021-01004-x)
 
 **Description:** Comparative analysis of two clinical samples
@@ -41,7 +45,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Description:** Analysis of 50 human endogenous retroviruses (HERVs) short-read whole-genome sequences, "matching long and short read data, and simulated short-read data."
 
-**Platforms:** Illumina
+**Platforms:** Illumina HiSeq 2000 and 2500, and PacBio Sequel
 
 #
 
