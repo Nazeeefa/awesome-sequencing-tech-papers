@@ -28,14 +28,23 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 ## 2023
 
 **Title:** [Primed and ready: Nanopore metabarcoding can now recover highly accurate consensus barcodes that are generally indel-free](https://www.biorxiv.org/content/10.1101/2023.08.04.552069v1.full)
+
 **Description:** Sequencing of zooplankton samples to recover molecular operational taxonomic units (MOTUs). At the sample-level, Illumina metabarcoding recovered more MOTUs than nanopore.
+
 **Platforms:** Illumina MiSeq and ONT's minION (R10.3 chemistry)
 
+#
+
 **Title:** [Performance analysis of conventional and AI-based variant callers using short and long reads](https://www.biorxiv.org/content/10.1101/2023.06.12.544612v2)
+
 **Platforms:** Illumina HiSeq2500
 
+#
+
 **Title:** [The long and short of it: Benchmarking viromics using Illumina, Nanopore and PacBio sequencing technologies](https://www.biorxiv.org/content/10.1101/2023.02.12.527533v1)
+
 **Description:** Assessment of assembly algorithms for the analysis of viromes (mock community of 15 bacteriophage genomes), and assessment of error rates across different platforms.
+
 **Platforms:** Illumina MiSeq (NexteraXT library prep kit), minION (library prep by SQK-LSK109), and PacBio Sequel.
 
 ## 2022
@@ -43,7 +52,10 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 **Title:** [Sequencing of individual barcoded cDNAs on Pacific Biosciences and Oxford Nanopore reveals platform-specific error patterns](https://www.biorxiv.org/content/10.1101/2022.01.17.476636v1)
 
 **Description:** Isoform analysis of mouse data via sequencing cDNA of reverse transcription events.
+
 **Platforms:** PacBio Sequel II, and ONT PromethION
+
+#
 
 **Title:** 🧬 [Target enrichment long-read sequencing with adaptive sampling can determine the structure of the small supernumerary marker chromosomes](https://www.nature.com/articles/s10038-021-01004-x)
 
