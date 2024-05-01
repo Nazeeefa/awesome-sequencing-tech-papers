@@ -30,6 +30,8 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 **Title:** [The Hitchhiker’s Guide to Sequencing Data Types and Volumes for Population-Scale Pangenome Construction](https://www.biorxiv.org/content/10.1101/2024.03.14.585029v2)
 
+**Title:** [A graph clustering algorithm for detection and genotyping of structural variants from long reads](https://doi.org/10.1093/gigascience/giad112)
+
 ## 2023
 
 **Title:** [Primed and ready: Nanopore metabarcoding can now recover highly accurate consensus barcodes that are generally indel-free](https://www.biorxiv.org/content/10.1101/2023.08.04.552069v1.full)
