@@ -13,6 +13,8 @@
   - 💉 Focused towards medical genetics
   - 🛠 Includes tool/software development
 
+Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/issues). Thank you.
+
 ## 2020
 
 **Title:** 🇸🇪 🧬 [Evaluation of Single-Molecule Sequencing Technologies for Structural Variant Detection in Two Swedish Human Genomes](https://www.mdpi.com/2073-4425/11/12/1444)
