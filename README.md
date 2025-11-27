@@ -26,6 +26,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 ---
 ## 2026
 
+Coming Soon :)
 ---
 
 Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/issues). Thank you.
