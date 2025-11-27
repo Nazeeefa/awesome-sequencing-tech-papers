@@ -26,9 +26,11 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-seq
 
 #
 
-**Title:** [Performance analysis of conventional and AI-based variant callers using short and long reads](https://www.biorxiv.org/content/10.1101/2023.06.12.544612v2)
+🧬💉 **Title:** [Performance analysis of conventional and AI-based variant callers using short and long reads](https://link.springer.com/article/10.1186/s12859-023-05596-3)
 
-**Platforms:** Illumina HiSeq2500
+**Description:** Becnhmarking of five variant‑calling tools (conventional and AI‑based) on the same human samples from the Genome In A Bottle (GIAB) dataset, using data from Illumina, PacBio Hi‑Fi, and ONT. The study finds that AI‑based callers (especially DeepVariant and DNAscope) outperform conventional tools (e.g. BCFTools, GATK4, Platypus) when calling SNVs and INDELs across both long- and short-read data. On PacBio Hi‑Fi, precision and recall for SNVs/INDELs exceed ~99.9%; on ONT data, DeepVariant yields higher recall and precision than BCFTools (though both detect many ONT-specific variants likely due to error profile). The study also compares computational cost: conventional tools tend to run faster and use less memory, while AI-based callers demand more computing resources.
+
+**Platforms:** Illumina HiSeq2500 as a reference, PacBio (Hi‑Fi, CCS), and ONT.
 
 #
 
