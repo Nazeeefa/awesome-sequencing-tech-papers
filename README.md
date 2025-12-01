@@ -1,4 +1,4 @@
-# awesome-sequencing-tech
+# Awesome Sequencing Tech
 
 **A collection of papers on comparison of long and/or short read sequencing technologies (and data generated from the platforms).**
 |Sequencing|Technologies|For|The | Win|
