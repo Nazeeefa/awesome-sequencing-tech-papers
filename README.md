@@ -1,6 +1,6 @@
 # Awesome Sequencing Tech [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**A collection of papers on comparison of long and/or short read sequencing technologies (and data generated from the platforms).**
+### A collection of papers on comparison of long and/or short read sequencing technologies, and data generated from the platforms.
 |Sequencing|Technologies|For|The | Win|
 |:--:|:--:|:--:|:--:|:--:|
 | [2026](https://github.com/Nazeeefa/awesome-sequencing-tech-papers#2026) | [2024-2025](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/blob/master/Sequencing_Tech_Papers_2024-2025.md)| [2022-2023](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/blob/master/Sequencing_Tech_Papers_2022-2023.md), [2021](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/blob/master/Sequencing_Tech_2021_Papers.md) | [2020](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/blob/master/Sequencing_Tech_2020_Papers.md)| [2019](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/blob/master/Sequencing_Tech_2019_Papers.md)| [2018](https://github.com/Nazeeefa/awesome-sequencing-tech-papers/blob/master/Sequencing_Tech_2018_Papers.md)|
